@@ -1,2 +1,2 @@
 # CodeChef All Attempted Question
-### Solutions directory contains all question I attempted on [codechef.com](https://www.codechef.com)
+### The solutions folder contains all questions I attempted on [codechef.com](https://www.codechef.com)
