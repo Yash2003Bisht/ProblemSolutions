@@ -1,0 +1,10 @@
+# virtual environment
+venv
+
+# ide
+.vscode
+
+# files
+bs4_scraper
+main.py
+.track
