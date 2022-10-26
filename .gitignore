@@ -3,6 +3,7 @@ venv
 
 # ide
 .vscode
+.idea
 
 # files
 bs4_scraper
