@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/PLAYPIAN
+# STATUS: wrong answer
 
 for _ in range(int(input())):
     entries = input()

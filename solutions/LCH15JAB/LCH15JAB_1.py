@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/LCH15JAB
+# STATUS: accepted
 
 from collections import Counter
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/CHNGIT
+# STATUS: wrong answer
 
 from collections import Counter
 

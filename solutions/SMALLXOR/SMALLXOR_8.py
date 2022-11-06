@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/SMALLXOR
+# STATUS: time limit exceeded
 
 from bisect import bisect
 for _ in range(int(input())):

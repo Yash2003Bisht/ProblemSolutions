@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BUY1GET1
+# STATUS: wrong answer
 
 from collections import Counter
 import math

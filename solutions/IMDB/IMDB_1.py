@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/IMDB
+# STATUS: accepted
 
 for _ in range(int(input())):
     imdb = 0

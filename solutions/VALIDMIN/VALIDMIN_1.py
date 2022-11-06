@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/VALIDMIN
+# STATUS: accepted
 
 for _ in range(int(input())):
     lst = list(map(int, input().split(" ")))

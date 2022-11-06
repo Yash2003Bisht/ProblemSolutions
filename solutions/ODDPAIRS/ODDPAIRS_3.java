@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/ODDPAIRS
+// STATUS: wrong answer
 
 /* package codechef; // don't place package name! */
 

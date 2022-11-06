@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/FRGAME
+// STATUS: accepted
 
 #include <bits/stdc++.h>
 using namespace std;

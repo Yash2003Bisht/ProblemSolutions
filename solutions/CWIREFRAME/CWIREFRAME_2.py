@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/CWIREFRAME
+# STATUS: accepted
 
 for _ in range(int(input())):
     n, m, x = map(int, input().split())

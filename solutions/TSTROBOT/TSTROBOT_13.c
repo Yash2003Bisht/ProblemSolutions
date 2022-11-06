@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/TSTROBOT
+// STATUS: runtime error(SIGSEGV)
 
 #include <stdio.h>
 int add[10];

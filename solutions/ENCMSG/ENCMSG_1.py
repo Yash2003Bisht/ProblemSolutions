@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ENCMSG
+# STATUS: accepted
 
 from string import ascii_lowercase
 

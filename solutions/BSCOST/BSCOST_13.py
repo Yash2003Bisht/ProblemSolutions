@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BSCOST
+# STATUS: wrong answer
 
 for _ in range(int(input())):
     n, x, y = input().split()

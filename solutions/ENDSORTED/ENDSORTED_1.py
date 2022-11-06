@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ENDSORTED
+# STATUS: accepted
 
 # author: yash2003bisht
 # question link: https://www.codechef.com/submit/ENDSORTED

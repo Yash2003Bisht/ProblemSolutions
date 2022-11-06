@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/FLOW001
+// STATUS: accepted
 
 import java.util.Scanner;
 import java.util.Arrays;

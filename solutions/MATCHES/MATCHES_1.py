@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/MATCHES
+# STATUS: accepted
 
 matches = {
     '0': 6,

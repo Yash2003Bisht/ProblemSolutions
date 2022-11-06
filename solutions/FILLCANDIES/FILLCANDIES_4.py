@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/FILLCANDIES
+# STATUS: wrong answer
 
 for _ in range(int(input())):
     n, k, m = map(int, input().split(" "))

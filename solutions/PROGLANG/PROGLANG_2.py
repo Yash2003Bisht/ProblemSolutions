@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/PROGLANG
+# STATUS: accepted
 
 for _ in range(int(input())):
     a,b,a1,b1,a2,b2 = map(int, input().split(" "))

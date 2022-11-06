@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BUY1GET1
+# STATUS: accepted
 
 for _ in range(int(input())):
     j = list(input().strip())

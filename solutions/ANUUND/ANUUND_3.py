@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ANUUND
+# STATUS: runtime error(NZEC)
 
 for _ in range(int(input())):
     n = int(input())

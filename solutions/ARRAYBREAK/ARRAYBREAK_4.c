@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/ARRAYBREAK
+// STATUS: wrong answer
 
 #include <stdio.h>
 

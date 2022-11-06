@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/REMOVEBAD
+# STATUS: accepted
 
 from collections import Counter
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/AUCTION
+# STATUS: accepted
 
 for _ in range(int(input())):
     a, b, c = map(int, input().split(" "))

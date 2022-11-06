@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BSCOST
+# STATUS: accepted
 
 import sys
 def get_ints(): return map(int, sys.stdin.readline().strip().split())

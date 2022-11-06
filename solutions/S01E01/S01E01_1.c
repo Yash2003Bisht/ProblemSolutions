@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/S01E01
+// STATUS: accepted
 
 #include <stdio.h>
 

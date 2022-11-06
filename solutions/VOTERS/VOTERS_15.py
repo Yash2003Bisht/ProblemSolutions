@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/VOTERS
+# STATUS: accepted
 
 from collections import Counter
 n1, n2, n3 = map(int, input().split())

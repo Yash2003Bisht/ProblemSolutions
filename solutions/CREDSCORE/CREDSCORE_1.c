@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/CREDSCORE
+// STATUS: accepted
 
 #include <stdio.h>
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/MARARUN
+# STATUS: accepted
 
 from bisect import bisect
 

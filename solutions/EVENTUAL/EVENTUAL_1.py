@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/EVENTUAL
+# STATUS: accepted
 
 from collections import Counter
 

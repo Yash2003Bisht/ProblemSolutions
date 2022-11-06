@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/SPLITN
+# STATUS: wrong answer
 
 import math
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/CCHOCOLATES
+# STATUS: accepted
 
 for _ in range(int(input())):
     n, x, z = map(int, input().split(" "))

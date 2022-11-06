@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/QUEENATTACK
+// STATUS: accepted
 
 #include <stdio.h>
 #define MIN(a,b) (a>b?b:a)

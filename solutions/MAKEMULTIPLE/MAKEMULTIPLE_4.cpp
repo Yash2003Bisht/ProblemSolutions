@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/MAKEMULTIPLE
+// STATUS: accepted
 
 #include <iostream>
 using namespace std;

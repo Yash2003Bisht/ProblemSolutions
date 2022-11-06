@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/AGELIMIT
+// STATUS: accepted
 
 import java.util.*;
 import java.lang.*;

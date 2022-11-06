@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/WEIGHTBL
+# STATUS: accepted
 
 for _ in range(int(input())):
     w1, w2, x1, x2, m = map(int, input().split())

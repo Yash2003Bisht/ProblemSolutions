@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/DWNLD
+// STATUS: accepted
 
 #include <stdio.h>
 

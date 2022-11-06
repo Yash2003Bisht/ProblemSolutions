@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/ELEVSTRS
+// STATUS: accepted
 
 #include <stdio.h>
 

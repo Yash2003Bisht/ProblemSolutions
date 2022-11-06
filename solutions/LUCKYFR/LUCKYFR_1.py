@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/LUCKYFR
+# STATUS: accepted
 
 from collections import Counter
 

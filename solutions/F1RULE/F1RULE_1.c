@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/F1RULE
+// STATUS: accepted
 
 #include <stdio.h>
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/NEARESTCOURT
+# STATUS: accepted
 
 import math
 

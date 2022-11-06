@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/ODDSUMPAIR
+// STATUS: accepted
 
 #include <stdio.h>
 

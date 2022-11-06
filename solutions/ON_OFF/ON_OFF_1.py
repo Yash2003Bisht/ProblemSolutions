@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ON_OFF
+# STATUS: accepted
 
 from collections import Counter
 for _ in range(int(input())):

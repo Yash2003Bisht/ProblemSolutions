@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/SINGLEOP1
+# STATUS: accepted
 
 for _ in range(int(input())):
     s = int(input())

@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/COMM3
+// STATUS: wrong answer
 
 #include <stdio.h>
 #include <math.h>

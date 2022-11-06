@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/FLIPPAL
+// STATUS: runtime error(SIGABRT)
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/ATTENDU
+// STATUS: accepted
 
 #include <stdio.h>
 

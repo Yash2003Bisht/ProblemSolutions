@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/CHN09
+# STATUS: accepted
 
 from collections import Counter
 

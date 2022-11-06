@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/EZSPEAK
+# STATUS: wrong answer
 
 consonants = ['a', 'e', 'i', 'o', 'u']
 for _ in range(int(input())):

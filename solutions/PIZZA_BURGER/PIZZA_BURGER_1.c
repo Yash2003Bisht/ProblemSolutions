@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/PIZZA_BURGER
+// STATUS: accepted
 
 #include <stdio.h>
 

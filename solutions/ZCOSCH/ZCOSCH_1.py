@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ZCOSCH
+# STATUS: accepted
 
 r = int(input())
 if r <= 50:

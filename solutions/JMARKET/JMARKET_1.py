@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/JMARKET
+# STATUS: accepted
 
 for _ in range(int(input())):
     x, a, b, c = map(int, input().split(" "))

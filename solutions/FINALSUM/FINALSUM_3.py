@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/FINALSUM
+# STATUS: accepted
 
 for _ in range(int(input())):
     n, q = map(int, input().split())

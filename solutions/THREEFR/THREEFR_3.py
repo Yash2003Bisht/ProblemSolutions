@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/THREEFR
+# STATUS: accepted
 
 for _ in range(int(input())):
     l = list(map(int, input().split()))

@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/CMASKS
+// STATUS: accepted
 
 #include <stdio.h>
 int main(void) 

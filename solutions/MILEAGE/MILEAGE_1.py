@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/MILEAGE
+# STATUS: accepted
 
 for _ in range(int(input())):
     n, x, y, a, b = map(int, input().split(" "))

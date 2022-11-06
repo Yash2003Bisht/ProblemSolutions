@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/L56GAME
+// STATUS: accepted
 
 #include <stdio.h>
 

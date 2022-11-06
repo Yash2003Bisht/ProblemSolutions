@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/XJUMP
+# STATUS: accepted
 
 # cook your dish here
 import math

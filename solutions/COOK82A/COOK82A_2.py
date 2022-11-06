@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/COOK82A
+# STATUS: accepted
 
 d=dict()
 for i in range(int(input())):

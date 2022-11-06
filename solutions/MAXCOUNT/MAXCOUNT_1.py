@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/MAXCOUNT
+# STATUS: accepted
 
 from collections import Counter
 

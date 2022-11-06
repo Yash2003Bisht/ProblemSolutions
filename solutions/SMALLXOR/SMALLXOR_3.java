@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/SMALLXOR
+// STATUS: time limit exceeded
 
 /* package codechef; // don't place package name! */
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ODDPAIRS
+# STATUS: accepted
 
 from itertools import permutations
 

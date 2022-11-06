@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/FRIEZA
+# STATUS: accepted
 
 name = ['f', 'r', 'i', 'e', 'z', 'a']
 

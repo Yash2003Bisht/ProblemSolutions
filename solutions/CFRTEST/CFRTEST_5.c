@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/CFRTEST
+// STATUS: wrong answer
 
 #include <stdio.h>
 

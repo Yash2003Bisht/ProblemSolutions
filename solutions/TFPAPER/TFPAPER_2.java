@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/TFPAPER
+// STATUS: accepted
 
 /* package codechef; // don't place package name! */
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/CANDY123
+# STATUS: accepted
 
 for _ in range(int(input())):
     a, b = map(int, input().split())

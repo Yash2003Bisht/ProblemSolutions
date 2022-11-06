@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/COOK82A
+# STATUS: accepted
 
 for _ in range(int(input())):
     match = {}

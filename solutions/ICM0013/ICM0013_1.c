@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/ICM0013
+// STATUS: accepted
 
 #include <stdio.h>
 

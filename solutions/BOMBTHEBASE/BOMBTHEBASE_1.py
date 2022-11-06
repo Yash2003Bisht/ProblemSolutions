@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BOMBTHEBASE
+# STATUS: accepted
 
 from bisect import bisect
 

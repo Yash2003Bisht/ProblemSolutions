@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/LAPTOPREC
+# STATUS: accepted
 
 from collections import Counter
 

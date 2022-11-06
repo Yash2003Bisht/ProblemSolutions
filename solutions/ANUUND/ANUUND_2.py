@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ANUUND
+# STATUS: accepted
 
 for i in range(int(input())):
     n=int(input())

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/TREE2
+# STATUS: partially accepted
 
 for _ in range(int(input())):
     n = int(input())

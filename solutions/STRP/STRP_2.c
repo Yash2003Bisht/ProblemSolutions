@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/STRP
+// STATUS: wrong answer
 
 #include <stdio.h>
 

@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/PRIME1
+// STATUS: accepted
 
 #include <stdio.h>
 

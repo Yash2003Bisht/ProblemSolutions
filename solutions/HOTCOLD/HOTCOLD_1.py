@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/HOTCOLD
+# STATUS: accepted
 
 for _ in range(int(input())):
     x = int(input())

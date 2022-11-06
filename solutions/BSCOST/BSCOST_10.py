@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BSCOST
+# STATUS: accepted
 
 for _ in range(int(input())):
     n, x, y = map(int, input().split())  # forget to typecast to integer here on previous submissions

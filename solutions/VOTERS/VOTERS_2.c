@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/VOTERS
+// STATUS: runtime error(OTHER)
 
 #include <stdio.h>
 

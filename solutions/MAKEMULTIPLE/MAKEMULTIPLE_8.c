@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/MAKEMULTIPLE
+// STATUS: time limit exceeded
 
 #include <stdio.h>
 

@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/WEIGHTBL
+// STATUS: accepted
 
 /* package codechef; // don't place package name! */
 

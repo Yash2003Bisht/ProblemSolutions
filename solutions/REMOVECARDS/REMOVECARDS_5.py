@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/REMOVECARDS
+# STATUS: accepted
 
 from collections import Counter
 

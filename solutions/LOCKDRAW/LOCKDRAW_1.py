@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/LOCKDRAW
+# STATUS: accepted
 
 for _ in range(int(input())):
     points = list(map(int, input().split(" ")))

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/URCALC
+# STATUS: accepted
 
 a = int(input())
 b = int(input())

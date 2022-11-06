@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/SMALLXOR
+# STATUS: wrong answer
 
 from bisect import bisect
 

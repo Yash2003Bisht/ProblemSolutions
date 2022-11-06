@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/MUFFINS3
+// STATUS: accepted
 
 #include <stdio.h>
 

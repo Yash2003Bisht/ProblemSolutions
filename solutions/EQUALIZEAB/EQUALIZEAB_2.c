@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/EQUALIZEAB
+// STATUS: wrong answer
 
 #include <stdio.h>
 #include <stdlib.h>

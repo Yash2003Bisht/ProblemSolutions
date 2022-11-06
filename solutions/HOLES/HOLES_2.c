@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/HOLES
+// STATUS: accepted
 
 #include <stdio.h>
 #include<string.h>

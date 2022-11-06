@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/FLIPPAL
+// STATUS: accepted
 
 #include <stdio.h>
 #include <stdlib.h>

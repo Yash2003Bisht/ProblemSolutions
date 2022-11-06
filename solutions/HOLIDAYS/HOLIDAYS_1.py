@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/HOLIDAYS
+# STATUS: accepted
 
 for _ in range(int(input())):
     n, w = map(int, input().split())

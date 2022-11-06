@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/FINALSUM
+# STATUS: accepted
 
 # submission credits: crapcode
 # submission link: https://www.codechef.com/viewsolution/78406818

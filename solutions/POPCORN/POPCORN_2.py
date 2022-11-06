@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/POPCORN
+# STATUS: accepted
 
 for _ in range(int(input())):
     a1, a2 = map(int, input().split(" "))

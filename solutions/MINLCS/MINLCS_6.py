@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/MINLCS
+# STATUS: accepted
 
 from collections import Counter
 

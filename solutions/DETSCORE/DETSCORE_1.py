@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/DETSCORE
+# STATUS: accepted
 
 for _ in range(int(input())):
     x, n = map(int, input().split(" "))

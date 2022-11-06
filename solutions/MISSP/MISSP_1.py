@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/MISSP
+# STATUS: accepted
 
 from collections import Counter
 for _ in range(int(input())):

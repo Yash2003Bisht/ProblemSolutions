@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/LASTLEVELS
+# STATUS: accepted
 
 # x -> levels remaining in the game
 # y -> minutes to complete

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/ELEVSTRS
+# STATUS: accepted
 
 import math
 for _ in range(int(input())):

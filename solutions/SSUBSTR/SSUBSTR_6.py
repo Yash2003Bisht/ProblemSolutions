@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/SSUBSTR
+# STATUS: accepted
 
 from sys import stdin, stdout
 

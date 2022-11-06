@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/MAXDIFFMIN
+// STATUS: accepted
 
 #include <stdio.h>
 

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/VOTERS
+# STATUS: accepted
 
 from collections import Counter
 total = sum(map(int, input().split()))

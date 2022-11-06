@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/EASYPERM
+# STATUS: accepted
 
 import sys
 

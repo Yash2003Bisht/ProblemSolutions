@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/AIANALYSE
+# STATUS: accepted
 
 c = int(input())
 if c <= 1000:

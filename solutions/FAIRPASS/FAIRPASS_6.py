@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/FAIRPASS
+# STATUS: wrong answer
 
 T = int(input())
 for _ in range(T):

@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/PRIME1
+// STATUS: time limit exceeded
 
 #include <stdio.h>
 #include <math.h>

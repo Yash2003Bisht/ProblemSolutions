@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/VALIDMIN
+# STATUS: wrong answer
 
 for _ in range(int(input())):
     a, b, c = map(int, input().split(" "))

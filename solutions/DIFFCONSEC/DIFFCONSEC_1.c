@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/DIFFCONSEC
+// STATUS: accepted
 
 #include <stdio.h>
 #include <string.h>

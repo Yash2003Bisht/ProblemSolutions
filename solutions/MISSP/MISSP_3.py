@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/MISSP
+# STATUS: wrong answer
 
 for _ in range(int(input())):
     count = 0

@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/CHEFNWRK
+# STATUS: time limit exceeded
 
 for _ in range(int(input())):
     n,k = map(int,input().split())

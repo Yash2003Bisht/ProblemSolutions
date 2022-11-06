@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/EXPIRY
+// STATUS: accepted
 
 #include <stdio.h>
 

@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/HOLES
+// STATUS: wrong answer
 
 #include <stdio.h>
 #include<string.h>

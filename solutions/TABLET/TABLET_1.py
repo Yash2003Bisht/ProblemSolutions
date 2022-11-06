@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/TABLET
+# STATUS: accepted
 
 for _ in range(int(input())):
     n, b = map(int, input().split())

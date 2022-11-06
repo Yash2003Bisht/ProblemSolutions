@@ -1,4 +1,5 @@
 // QUESTION URL: https://www.codechef.com/problems/FINALSUM
+// STATUS: accepted
 
 #include <stdio.h>
 #include <stdlib.h>

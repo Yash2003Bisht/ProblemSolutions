@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/FODCHAIN
+# STATUS: accepted
 
 for _ in range(int(input())):
     e, k = map(int, input().split())

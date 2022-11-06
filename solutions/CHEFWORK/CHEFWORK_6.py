@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/CHEFWORK
+# STATUS: wrong answer
 
 n = int(input())
 c = list(map(int, input().split()))

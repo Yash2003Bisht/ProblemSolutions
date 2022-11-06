@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BUYLAMP
+# STATUS: accepted
 
 # n -> number of lamps chef want to buy
 # k -> number of lamps should be red

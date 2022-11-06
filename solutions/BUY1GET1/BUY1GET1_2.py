@@ -1,4 +1,5 @@
 # QUESTION URL: https://www.codechef.com/problems/BUY1GET1
+# STATUS: accepted
 
 from collections import Counter
 for _ in range(int(input())):
