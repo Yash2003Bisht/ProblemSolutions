@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/EASYPERM
 # STATUS: accepted
+# TIME: 0.17
+# MEMORY: 9.6M
 
 import sys
 

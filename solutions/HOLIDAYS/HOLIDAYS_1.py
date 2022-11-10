@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/HOLIDAYS
 # STATUS: accepted
+# TIME: 0.03
+# MEMORY: 9.7M
 
 for _ in range(int(input())):
     n, w = map(int, input().split())

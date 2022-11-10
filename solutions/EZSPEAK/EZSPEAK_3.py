@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/EZSPEAK
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9.6M
 
 consonants = ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z']
 for _ in range(int(input())):

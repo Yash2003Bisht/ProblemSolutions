@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/PRIME1
 # STATUS: accepted
+# TIME: 9.63
+# MEMORY: 9.6M
 
 import sys
 

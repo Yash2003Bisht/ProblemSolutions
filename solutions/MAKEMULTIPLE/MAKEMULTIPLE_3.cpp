@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/MAKEMULTIPLE
 // STATUS: accepted
+// TIME: 0.02
+// MEMORY: 5.3M
 
 #include <iostream>
 using namespace std;

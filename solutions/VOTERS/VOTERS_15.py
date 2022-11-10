@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/VOTERS
 # STATUS: accepted
+# TIME: 0.20
+# MEMORY: 23M
 
 from collections import Counter
 n1, n2, n3 = map(int, input().split())

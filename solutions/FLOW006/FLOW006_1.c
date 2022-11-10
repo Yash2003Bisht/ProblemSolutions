@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FLOW006
 // STATUS: accepted
+// TIME: 0.00
+// MEMORY: 5.3M
 
 //We have populated the solutions for the 10 easiest problems for your support.
 //Click on the SUBMIT button to make a submission to this problem.

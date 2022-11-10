@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FLIPCARDS
 // STATUS: wrong answer
+// TIME: 0.09
+// MEMORY: 54M
 
 /* package codechef; // don't place package name! */
 

@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/LUCKYFR
 # STATUS: accepted
+# TIME: 1.08
+# MEMORY: 9.1M
 
 from collections import Counter
 

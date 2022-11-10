@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/WATESTCASES
 // STATUS: wrong answer
+// TIME: 0.00
+// MEMORY: 5.2M
 
 #include <stdio.h>
 #include <string.h>

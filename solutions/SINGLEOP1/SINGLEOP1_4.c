@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SINGLEOP1
 // STATUS: runtime error(SIGABRT)
+// TIME: 0.01
+// MEMORY: 5.3M
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/COOK82A
 # STATUS: accepted
+# TIME: 0.02
+# MEMORY: 9.3M
 
 d=dict()
 for i in range(int(input())):

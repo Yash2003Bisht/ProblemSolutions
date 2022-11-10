@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/TSTROBOT
 // STATUS: runtime error(SIGSEGV)
+// TIME: 0.00
+// MEMORY: 0M
 
 #include <stdio.h>
 int add[100];

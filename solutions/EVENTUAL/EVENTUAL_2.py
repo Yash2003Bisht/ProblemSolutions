@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/EVENTUAL
 # STATUS: accepted
+# TIME: 0.03
+# MEMORY: 9.6M
 
 from collections import Counter
 

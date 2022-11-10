@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/TWOTRAINS
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9.6M
 
 for _ in range(int(input())):
     n = int(input())

@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/CHN09
 # STATUS: accepted
+# TIME: 0.08
+# MEMORY: 66.8M
 
 from collections import Counter
 

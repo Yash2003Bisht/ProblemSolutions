@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/TASTEDEC
 // STATUS: accepted
+// TIME: 0.00
+// MEMORY: 5.2M
 
 #include <stdio.h>
 

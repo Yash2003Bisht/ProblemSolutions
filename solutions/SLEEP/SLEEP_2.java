@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SLEEP
 // STATUS: accepted
+// TIME: 0.08
+// MEMORY: 54.1M
 
 /* package codechef; // don't place package name! */
 

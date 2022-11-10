@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ANUUND
 # STATUS: runtime error(NZEC)
+# TIME: 0.07
+# MEMORY: 23.2M
 
 for _ in range(int(input())):
     n = int(input())

@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ENCMSG
 # STATUS: accepted
+# TIME: 0.04
+# MEMORY: 9.6M
 
 from string import ascii_lowercase
 

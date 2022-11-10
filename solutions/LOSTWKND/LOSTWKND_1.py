@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/LOSTWKND
 # STATUS: accepted
+# TIME: 0.03
+# MEMORY: 9.7M
 
 for _ in range(int(input())):
     d = list(map(int, input().split()))

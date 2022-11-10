@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FODCHAIN
 // STATUS: accepted
+// TIME: 0.01
+// MEMORY: 5.1M
 
 #include <stdio.h>
 

@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/COVID_19
 // STATUS: accepted
+// TIME: 0.00
+// MEMORY: 5.2M
 
 #include <stdio.h>
 

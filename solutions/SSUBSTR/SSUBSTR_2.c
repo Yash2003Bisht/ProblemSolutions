@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SSUBSTR
 // STATUS: runtime error(SIGABRT)
+// TIME: 0.01
+// MEMORY: 5.2M
 
 #include <stdio.h>
 

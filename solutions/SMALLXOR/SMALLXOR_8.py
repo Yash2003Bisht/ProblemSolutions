@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/SMALLXOR
 # STATUS: time limit exceeded
+# TIME: -
+# MEMORY: 9.7M
 
 from bisect import bisect
 for _ in range(int(input())):

@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/MAXCOUNT
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9.9M
 
 from collections import Counter
 

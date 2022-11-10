@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/CHEFSTUD
 // STATUS: accepted
+// TIME: 0.01
+// MEMORY: 5.3M
 
 #include <stdio.h>
 #include <string.h>

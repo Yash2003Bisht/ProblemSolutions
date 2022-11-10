@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/PLAYPIAN
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9M
 
 for _ in range(int(input())):
     entries = input()

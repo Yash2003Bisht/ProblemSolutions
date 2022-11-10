@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/THREEBOX
 // STATUS: accepted
+// TIME: 0.00
+// MEMORY: 5.4M
 
 #include <stdio.h>
 

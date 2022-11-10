@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/UWCOI20A
 # STATUS: accepted
+# TIME: 0.37
+# MEMORY: 9.4M
 
 for _ in range(int(input())):
     n = int(input())

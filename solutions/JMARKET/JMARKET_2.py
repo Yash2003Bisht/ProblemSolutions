@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/JMARKET
 # STATUS: accepted
+# TIME: 0.59
+# MEMORY: 9.3M
 
 for _ in range(int(input())):
     x, a, b, c = map(int, input().split(" "))

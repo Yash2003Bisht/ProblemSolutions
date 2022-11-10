@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/KEPLERSLAW
 # STATUS: accepted
+# TIME: 0.09
+# MEMORY: 9.2M
 
 for _ in range(int(input())):
     s = list(map(int, input().split(" ")))

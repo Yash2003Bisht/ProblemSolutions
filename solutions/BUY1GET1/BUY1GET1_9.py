@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/BUY1GET1
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9.8M
 
 from collections import Counter
 import math

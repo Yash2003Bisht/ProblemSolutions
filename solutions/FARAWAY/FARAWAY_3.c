@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FARAWAY
 // STATUS: wrong answer
+// TIME: 0.03
+// MEMORY: 5.3M
 
 #include <stdio.h>
 

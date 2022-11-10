@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/MINLCS
 # STATUS: accepted
+# TIME: 0.06
+# MEMORY: 10.1M
 
 from collections import Counter
 

@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/CHFRICH
 // STATUS: accepted
+// TIME: 0.01
+// MEMORY: 5.4M
 
 #include <stdio.h>
 

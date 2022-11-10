@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SINGLEOP2
 // STATUS: accepted
+// TIME: 0.01
+// MEMORY: 5.4M
 
 #include <stdio.h>
 

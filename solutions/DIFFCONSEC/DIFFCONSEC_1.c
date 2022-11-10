@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/DIFFCONSEC
 // STATUS: accepted
+// TIME: 0.00
+// MEMORY: 5.3M
 
 #include <stdio.h>
 #include <string.h>

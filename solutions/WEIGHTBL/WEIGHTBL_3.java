@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/WEIGHTBL
 // STATUS: accepted
+// TIME: 0.82
+// MEMORY: 125.3M
 
 /* package codechef; // don't place package name! */
 

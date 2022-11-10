@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SMOL
 // STATUS: time limit exceeded
+// TIME: -
+// MEMORY: 0M
 
 #include <stdio.h>
 

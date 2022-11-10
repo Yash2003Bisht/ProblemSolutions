@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FINALSUM
 // STATUS: time limit exceeded
+// TIME: -
+// MEMORY: 5.4M
 
 #include <stdio.h>
 #include <stdlib.h>

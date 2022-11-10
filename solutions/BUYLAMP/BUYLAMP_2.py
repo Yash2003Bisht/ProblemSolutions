@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/BUYLAMP
 # STATUS: accepted
+# TIME: 0.03
+# MEMORY: 9.2M
 
 # n -> number of lamps chef want to buy
 # k -> number of lamps should be red

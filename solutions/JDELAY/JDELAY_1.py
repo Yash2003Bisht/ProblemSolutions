@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/JDELAY
 # STATUS: accepted
+# TIME: 0.04
+# MEMORY: 9.3M
 
 for _ in range(int(input())):
     n = int(input())

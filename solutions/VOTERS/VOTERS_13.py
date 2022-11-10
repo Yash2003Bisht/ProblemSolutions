@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/VOTERS
 # STATUS: accepted
+# TIME: 0.18
+# MEMORY: 22.7M
 
 from collections import Counter
 total = sum(map(int, input().split()))

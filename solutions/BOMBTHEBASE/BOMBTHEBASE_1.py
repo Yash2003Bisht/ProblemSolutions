@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/BOMBTHEBASE
 # STATUS: accepted
+# TIME: 0.05
+# MEMORY: 19.9M
 
 from bisect import bisect
 

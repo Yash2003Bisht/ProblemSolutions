@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/IMDB
 // STATUS: accepted
+// TIME: 0.08
+// MEMORY: 5.4M
 
 #include <stdio.h>
 

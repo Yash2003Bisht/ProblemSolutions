@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ON_OFF
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 8.8M
 
 from collections import Counter
 for _ in range(int(input())):

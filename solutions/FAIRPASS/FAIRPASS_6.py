@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/FAIRPASS
 # STATUS: wrong answer
+# TIME: 0.00
+# MEMORY: 0M
 
 T = int(input())
 for _ in range(T):

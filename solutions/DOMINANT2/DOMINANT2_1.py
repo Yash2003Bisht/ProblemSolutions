@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/DOMINANT2
 # STATUS: accepted
+# TIME: 0.14
+# MEMORY: 9.9M
 
 from collections import Counter
 

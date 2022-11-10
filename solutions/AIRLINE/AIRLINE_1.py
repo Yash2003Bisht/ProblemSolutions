@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/AIRLINE
 # STATUS: accepted
+# TIME: 0.24
+# MEMORY: 9.5M
 
 for i in range(int(input())):
     a, b, c, d, e = map(int, input().split())

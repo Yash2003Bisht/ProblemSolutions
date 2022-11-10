@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/CNDLOVE
 // STATUS: accepted
+// TIME: 0.07
+// MEMORY: 5.3M
 
 #include <stdio.h>
 

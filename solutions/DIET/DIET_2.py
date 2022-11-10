@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/DIET
 # STATUS: accepted
+# TIME: 0.03
+# MEMORY: 9.5M
 
 for _ in range(int(input())):
     n, k = map(int, input().split())

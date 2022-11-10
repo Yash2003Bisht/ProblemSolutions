@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/FRGAME
 # STATUS: accepted
+# TIME: 0.12
+# MEMORY: 66.6M
 
 for _ in range(int(input())):
     a, b, c, d = map(int, input().split(" "))

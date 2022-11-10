@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/QUEENATTACK
 // STATUS: accepted
+// TIME: 0.01
+// MEMORY: 5.2M
 
 #include <stdio.h>
 #define MIN(a,b) (a>b?b:a)

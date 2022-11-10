@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/PRIME1
 # STATUS: accepted
+# TIME: 9.70
+# MEMORY: 9.8M
 
 def is_prime(num):
     if num <= 1:

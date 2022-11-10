@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/COMM3
 // STATUS: wrong answer
+// TIME: 0.00
+// MEMORY: 5.3M
 
 #include <stdio.h>
 #include <math.h>

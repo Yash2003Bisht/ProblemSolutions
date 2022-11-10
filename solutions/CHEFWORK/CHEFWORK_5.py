@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/CHEFWORK
 # STATUS: accepted
+# TIME: 0.02
+# MEMORY: 9.6M
 
 n = int(input())
 c = list(map(int, input().split()))

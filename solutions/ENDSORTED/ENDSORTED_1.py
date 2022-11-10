@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ENDSORTED
 # STATUS: accepted
+# TIME: 0.07
+# MEMORY: 24.9M
 
 # author: yash2003bisht
 # question link: https://www.codechef.com/submit/ENDSORTED

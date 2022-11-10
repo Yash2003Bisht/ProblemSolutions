@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/DIVIDEMAKEEQ
 # STATUS: accepted
+# TIME: 0.69
+# MEMORY: 10.5M
 
 import math
 

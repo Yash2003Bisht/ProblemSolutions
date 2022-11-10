@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/ICM0013
 // STATUS: accepted
+// TIME: 0.00
+// MEMORY: 5.3M
 
 #include <stdio.h>
 

@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SMALLXOR
 // STATUS: accepted
+// TIME: 0.82
+// MEMORY: 130.7M
 
 import java.util.PriorityQueue;
 import java.util.Scanner;

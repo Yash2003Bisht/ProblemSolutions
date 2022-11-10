@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FINALSUM
 // STATUS: accepted
+// TIME: 0.08
+// MEMORY: 5.2M
 
 #include <stdio.h>
 #include <stdlib.h>

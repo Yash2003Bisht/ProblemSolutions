@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/FINALSUM
 # STATUS: accepted
+# TIME: 0.24
+# MEMORY: 27.5M
 
 # submission credits: crapcode
 # submission link: https://www.codechef.com/viewsolution/78406818

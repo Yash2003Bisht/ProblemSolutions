@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/FRIEZA
 # STATUS: accepted
+# TIME: 0.06
+# MEMORY: 9.7M
 
 name = ['f', 'r', 'i', 'e', 'z', 'a']
 

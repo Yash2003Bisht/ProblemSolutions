@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ELEVSTRS
 # STATUS: accepted
+# TIME: 0.03
+# MEMORY: 9.6M
 
 import math
 for _ in range(int(input())):

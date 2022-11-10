@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/ICM0013
 // STATUS: time limit exceeded
+// TIME: -
+// MEMORY: 5.3M
 
 #include <stdio.h>
 

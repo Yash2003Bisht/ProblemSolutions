@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/SPLITN
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9.7M
 
 import math
 

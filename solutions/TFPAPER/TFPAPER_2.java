@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/TFPAPER
 // STATUS: accepted
+// TIME: 0.25
+// MEMORY: 52.1M
 
 /* package codechef; // don't place package name! */
 

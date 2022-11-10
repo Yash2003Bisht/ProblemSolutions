@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/AGELIMIT
 // STATUS: accepted
+// TIME: 0.23
+// MEMORY: 47.1M
 
 import java.util.*;
 import java.lang.*;

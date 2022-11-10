@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/LCH15JAB
 # STATUS: accepted
+# TIME: 0.11
+# MEMORY: 73.6M
 
 from collections import Counter
 

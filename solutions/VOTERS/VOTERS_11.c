@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/VOTERS
 // STATUS: runtime error(OTHER)
+// TIME: 0.58
+// MEMORY: 2045.3M
 
 #include <stdio.h>
 

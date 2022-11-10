@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FLOW001
 // STATUS: accepted
+// TIME: 0.25
+// MEMORY: 47.8M
 
 import java.util.Scanner;
 import java.util.Arrays;

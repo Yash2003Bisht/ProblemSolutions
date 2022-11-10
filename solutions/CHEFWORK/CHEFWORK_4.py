@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/CHEFWORK
 # STATUS: compilation error
+# TIME: -
+# MEMORY: -
 
 n = int(input())
 c = list(map(int, input().split()))

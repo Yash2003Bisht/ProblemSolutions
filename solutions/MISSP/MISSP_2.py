@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/MISSP
 # STATUS: accepted
+# TIME: 0.09
+# MEMORY: 10.2M
 
 from collections import Counter
 for _ in range(int(input())):

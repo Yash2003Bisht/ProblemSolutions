@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/CCOOK
 // STATUS: accepted
+// TIME: 0.00
+// MEMORY: 5.1M
 
 #include <stdio.h>
 

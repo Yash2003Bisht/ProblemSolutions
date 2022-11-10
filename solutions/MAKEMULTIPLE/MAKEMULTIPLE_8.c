@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/MAKEMULTIPLE
 // STATUS: time limit exceeded
+// TIME: -
+// MEMORY: 5.1M
 
 #include <stdio.h>
 

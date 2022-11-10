@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ANUUND
 # STATUS: accepted
+# TIME: 0.54
+# MEMORY: 27.1M
 
 for i in range(int(input())):
     n=int(input())

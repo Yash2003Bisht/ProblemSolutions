@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/CO92JUDG
 # STATUS: accepted
+# TIME: 0.02
+# MEMORY: 8.9M
 
 for _ in range(int(input())):
     n = int(input())

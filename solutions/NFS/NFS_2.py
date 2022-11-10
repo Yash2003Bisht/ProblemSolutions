@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/NFS
 # STATUS: accepted
+# TIME: 0.54
+# MEMORY: 9.5M
 
 import math
 

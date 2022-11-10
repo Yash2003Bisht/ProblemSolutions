@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/MAGICHF
 // STATUS: accepted
+// TIME: 0.02
+// MEMORY: 5.2M
 
 #include <stdio.h>
 

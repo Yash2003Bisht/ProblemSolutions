@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/DARLIG
 # STATUS: accepted
+# TIME: 0.51
+# MEMORY: 9.3M
 
 for _ in range(int(input())):
     a, b = map(int, input().split(" "))

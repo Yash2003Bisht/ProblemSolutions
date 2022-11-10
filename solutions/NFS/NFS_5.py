@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/NFS
 # STATUS: runtime error(NZEC)
+# TIME: 0.00
+# MEMORY: 0M
 
 import math
 

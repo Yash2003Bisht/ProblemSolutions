@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/CHEFNWRK
 # STATUS: time limit exceeded
+# TIME: -
+# MEMORY: 9.5M
 
 for _ in range(int(input())):
     n,k = map(int,input().split())

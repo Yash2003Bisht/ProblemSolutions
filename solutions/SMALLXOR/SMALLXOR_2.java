@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SMALLXOR
 // STATUS: accepted
+// TIME: 0.84
+// MEMORY: 129.9M
 
 /* package codechef; // don't place package name! */
 

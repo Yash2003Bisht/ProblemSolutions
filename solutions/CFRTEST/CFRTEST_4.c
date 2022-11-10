@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/CFRTEST
 // STATUS: accepted
+// TIME: 0.05
+// MEMORY: 5.4M
 
 #include <stdio.h>
 

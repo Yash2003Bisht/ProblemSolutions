@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/REMOVECARDS
 # STATUS: accepted
+# TIME: 0.02
+# MEMORY: 9.7M
 
 from collections import Counter
 

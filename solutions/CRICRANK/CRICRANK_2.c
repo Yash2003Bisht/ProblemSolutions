@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/CRICRANK
 // STATUS: wrong answer
+// TIME: 0.00
+// MEMORY: 0M
 
 #include <stdio.h>
 

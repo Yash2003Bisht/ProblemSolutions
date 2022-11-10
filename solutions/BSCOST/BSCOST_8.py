@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/BSCOST
 # STATUS: accepted
+# TIME: 0.02
+# MEMORY: 9.6M
 
 import sys
 def get_ints(): return map(int, sys.stdin.readline().strip().split())

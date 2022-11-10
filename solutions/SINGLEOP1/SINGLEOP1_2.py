@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/SINGLEOP1
 # STATUS: accepted
+# TIME: 0.19
+# MEMORY: 11.2M
 
 for _ in range(int(input())):
     s = int(input())

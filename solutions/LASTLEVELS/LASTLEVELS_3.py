@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/LASTLEVELS
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9.1M
 
 # x -> levels remaining in the game
 # y -> minutes to complete

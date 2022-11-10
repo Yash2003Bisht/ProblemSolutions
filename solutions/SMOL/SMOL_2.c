@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SMOL
 // STATUS: runtime error(SIGFPE)
+// TIME: 0.00
+// MEMORY: 0M
 
 #include <stdio.h>
 

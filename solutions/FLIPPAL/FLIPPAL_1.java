@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FLIPPAL
 // STATUS: accepted
+// TIME: 0.51
+// MEMORY: 91.3M
 
 /* package codechef; // don't place package name! */
 

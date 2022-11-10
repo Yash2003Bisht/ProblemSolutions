@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/COMPRESSVD
 # STATUS: accepted
+# TIME: 0.08
+# MEMORY: 22.8M
 
 for _ in range(int(input())):
     n = int(input())

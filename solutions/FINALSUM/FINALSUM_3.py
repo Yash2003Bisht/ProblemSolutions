@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/FINALSUM
 # STATUS: accepted
+# TIME: 0.44
+# MEMORY: 30.3M
 
 for _ in range(int(input())):
     n, q = map(int, input().split())

@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/HEADBOB
 # STATUS: accepted
+# TIME: 0.04
+# MEMORY: 9.6M
 
 for _ in range(int(input())):
     n = int(input())

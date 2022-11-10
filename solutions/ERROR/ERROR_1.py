@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ERROR
 # STATUS: accepted
+# TIME: 0.04
+# MEMORY: 9.8M
 
 for _ in range(int(input())):
     n=input()

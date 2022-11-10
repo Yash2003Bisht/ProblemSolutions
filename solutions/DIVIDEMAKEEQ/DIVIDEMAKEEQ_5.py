@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/DIVIDEMAKEEQ
 # STATUS: accepted
+# TIME: 0.55
+# MEMORY: 10.3M
 
 for _ in range(int(input())):
     n = int(input())

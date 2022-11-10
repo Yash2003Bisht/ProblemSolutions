@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/CHEFSTUD
 # STATUS: accepted
+# TIME: 0.19
+# MEMORY: 10.1M
 
 for _ in range(int(input())):
     s = input()

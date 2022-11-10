@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/TTENIS
 # STATUS: wrong answer
+# TIME: 0.03
+# MEMORY: 9.6M
 
 for _ in range(int(input())):
     s = input()

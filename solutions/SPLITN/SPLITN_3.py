@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/SPLITN
 # STATUS: time limit exceeded
+# TIME: -
+# MEMORY: 9.6M
 
 for _ in range(int(input())):
     n = int(input())

@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/MY1STCONTEST
 # STATUS: accepted
+# TIME: 0.02
+# MEMORY: 9.3M
 
 x, y, z =  map(int, input().split(" "))
 total_user_made_submissions = x - y

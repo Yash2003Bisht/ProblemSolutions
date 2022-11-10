@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/ODDPAIRS
 // STATUS: wrong answer
+// TIME: 0.08
+// MEMORY: 53.7M
 
 /* package codechef; // don't place package name! */
 

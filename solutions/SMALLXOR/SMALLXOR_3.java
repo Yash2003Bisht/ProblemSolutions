@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/SMALLXOR
 // STATUS: time limit exceeded
+// TIME: -
+// MEMORY: 54.3M
 
 /* package codechef; // don't place package name! */
 

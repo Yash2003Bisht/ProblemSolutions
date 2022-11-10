@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/MXEVNSUB
 # STATUS: accepted
+# TIME: 0.95
+# MEMORY: 9.8M
 
 for _ in range(int(input())):
     n = int(input())

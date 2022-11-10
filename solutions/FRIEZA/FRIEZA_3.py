@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/FRIEZA
 # STATUS: accepted
+# TIME: 0.07
+# MEMORY: 9.8M
 
 for _ in range(int(input())):
     s = input()

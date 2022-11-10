@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/FAIRPASS
 // STATUS: accepted
+// TIME: 0.19
+// MEMORY: 43.4M
 
 /* package codechef; // don't place package name! */
 

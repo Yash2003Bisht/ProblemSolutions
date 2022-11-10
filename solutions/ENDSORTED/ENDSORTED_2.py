@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/ENDSORTED
 # STATUS: accepted
+# TIME: 0.07
+# MEMORY: 25M
 
 for _ in range(int(input())):
     n = int(input())

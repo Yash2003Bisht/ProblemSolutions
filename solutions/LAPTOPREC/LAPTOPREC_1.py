@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/LAPTOPREC
 # STATUS: accepted
+# TIME: 0.05
+# MEMORY: 9.7M
 
 from collections import Counter
 

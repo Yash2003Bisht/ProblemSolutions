@@ -1,5 +1,7 @@
 // QUESTION URL: https://www.codechef.com/problems/CHEGLOVE
 // STATUS: accepted
+// TIME: 0.27
+// MEMORY: 5.3M
 
 #include <stdio.h>
 

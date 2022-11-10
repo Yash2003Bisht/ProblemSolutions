@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/SMALLXOR
 # STATUS: wrong answer
+# TIME: 0.02
+# MEMORY: 9.8M
 
 from bisect import bisect
 

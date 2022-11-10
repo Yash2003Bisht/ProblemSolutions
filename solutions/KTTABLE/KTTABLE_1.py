@@ -1,5 +1,7 @@
 # QUESTION URL: https://www.codechef.com/problems/KTTABLE
 # STATUS: accepted
+# TIME: 0.07
+# MEMORY: 11.4M
 
 for _ in range(int(input())):
     n = int(input())
