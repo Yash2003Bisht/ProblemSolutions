@@ -7,6 +7,5 @@ venv
 
 # files
 bs4_scraper
-main.py
-.track
 tempCodeRunnerFile.py
+executor.py
