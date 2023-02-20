@@ -93,7 +93,7 @@ int main(void) {
             if (i >= 11-k && min_value == n[i]) count++;
         }
         
-        // n! / (k! * (n â€“ k)!)
+        // n! / (k! * (n - k)!)
         int ans = fact(all_count) / (fact(count) * fact(all_count - count));
         printf("%d\n", ans);
         
