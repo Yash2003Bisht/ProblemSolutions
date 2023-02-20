@@ -44,7 +44,7 @@ int main(void) {
 
         } 
         
-        // n! / (k! * (n â€“ k)!)
+        // n! / (k! * (n – k)!)
         for (int i=0; i<9; i++){
             if (a[i] >= x) counter += fact(a[i]) / (fact(x) * fact(a[i] - x));
         }
