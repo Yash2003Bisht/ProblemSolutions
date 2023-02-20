@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEGLOVE
+// DATE: 28/09/2022, 06:37:46
+// PROBLEM NAME: Chef and Glove
+// PROBLEM URL: https://www.codechef.com/problems/CHEGLOVE
+// PROBLEM DIFFICULTY RATTING: 1104
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

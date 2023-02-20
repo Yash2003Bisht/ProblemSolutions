@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/BESTBATS
+# DATE: 18/01/2023, 08:03:33
+# PROBLEM NAME: Top Batsmen
+# PROBLEM URL: https://www.codechef.com/problems/BESTBATS
+# PROBLEM DIFFICULTY RATTING: 1228
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.7M

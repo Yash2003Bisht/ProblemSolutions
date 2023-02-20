@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DIGSMPAR
+// DATE: 26/10/2022, 11:57:25
+// PROBLEM NAME: Digit Sum Parities
+// PROBLEM URL: https://www.codechef.com/problems/DIGSMPAR
+// PROBLEM DIFFICULTY RATTING: 1077
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

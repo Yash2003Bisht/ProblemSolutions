@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/AXNODR
+// DATE: 06/02/2023, 08:42:34
+// PROBLEM NAME: Dazzling AXNODR Challenge 
+// PROBLEM URL: https://www.codechef.com/problems/AXNODR
+// PROBLEM DIFFICULTY RATTING: 1246
 // STATUS: wrong answer
 // TIME: 0.01
 // MEMORY: 5.3M

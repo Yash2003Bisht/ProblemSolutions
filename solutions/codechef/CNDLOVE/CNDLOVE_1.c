@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CNDLOVE
+// DATE: 23/09/2022, 05:53:55
+// PROBLEM NAME: Candy Love
+// PROBLEM URL: https://www.codechef.com/problems/CNDLOVE
+// PROBLEM DIFFICULTY RATTING: 1054
 // STATUS: accepted
 // TIME: 0.07
 // MEMORY: 5.3M

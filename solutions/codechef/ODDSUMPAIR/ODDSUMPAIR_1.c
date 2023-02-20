@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ODDSUMPAIR
+// DATE: 26/10/2022, 07:57:10
+// PROBLEM NAME: Odd Sum Pair
+// PROBLEM URL: https://www.codechef.com/problems/ODDSUMPAIR
+// PROBLEM DIFFICULTY RATTING: 506
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

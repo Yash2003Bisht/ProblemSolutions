@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/M1ENROL
+# DATE: 29/07/2022, 06:55:53
+# PROBLEM NAME: MATH1 Enrolment
+# PROBLEM URL: https://www.codechef.com/problems/M1ENROL
+# PROBLEM DIFFICULTY RATTING: 349
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.1M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DAILY
+// DATE: 13/01/2023, 09:25:33
+// PROBLEM NAME: Daily Train
+// PROBLEM URL: https://www.codechef.com/problems/DAILY
+// PROBLEM DIFFICULTY RATTING: 1222
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.3M
@@ -41,7 +44,7 @@ int main(void) {
 
         } 
         
-        // n! / (k! * (n – k)!)
+        // n! / (k! * (n â€“ k)!)
         for (int i=0; i<9; i++){
             counter += fact(a[i]) / (fact(x) * fact(a[i] - x));   
         }

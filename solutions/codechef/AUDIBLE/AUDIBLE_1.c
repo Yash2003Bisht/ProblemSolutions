@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/AUDIBLE
+// DATE: 09/10/2022, 02:05:01
+// PROBLEM NAME: Audible Range
+// PROBLEM URL: https://www.codechef.com/problems/AUDIBLE
+// PROBLEM DIFFICULTY RATTING: 279
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

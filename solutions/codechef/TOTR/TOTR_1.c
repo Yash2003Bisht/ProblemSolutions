@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TOTR
+// DATE: 11/02/2023, 07:45:14
+// PROBLEM NAME: Tourist Translations
+// PROBLEM URL: https://www.codechef.com/problems/TOTR
+// PROBLEM DIFFICULTY RATTING: 1252
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

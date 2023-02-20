@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CALPOWER
+// DATE: 16/01/2023, 07:23:39
+// PROBLEM NAME: Cool Name
+// PROBLEM URL: https://www.codechef.com/problems/CALPOWER
+// PROBLEM DIFFICULTY RATTING: 1223
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

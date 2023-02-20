@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/VCS
+// DATE: 06/01/2023, 07:09:24
+// PROBLEM NAME: Version Control System
+// PROBLEM URL: https://www.codechef.com/problems/VCS
+// PROBLEM DIFFICULTY RATTING: 1217
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

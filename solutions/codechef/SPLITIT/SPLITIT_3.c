@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SPLITIT
+// DATE: 10/02/2023, 07:23:50
+// PROBLEM NAME: Split the Str Ing
+// PROBLEM URL: https://www.codechef.com/problems/SPLITIT
+// PROBLEM DIFFICULTY RATTING: 1251
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

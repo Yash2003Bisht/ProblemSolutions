@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/HOSTELROOM
+// DATE: 22/09/2022, 05:53:56
+// PROBLEM NAME: Hostel Room
+// PROBLEM URL: https://www.codechef.com/problems/HOSTELROOM
+// PROBLEM DIFFICULTY RATTING: 1169
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

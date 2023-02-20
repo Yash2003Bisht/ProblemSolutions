@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/HLEQN
+# DATE: 13/08/2022, 09:52:36
+# PROBLEM NAME: Hello Equation
+# PROBLEM URL: https://www.codechef.com/problems/HLEQN
+# PROBLEM DIFFICULTY RATTING: 1315
 # STATUS: accepted
 # TIME: 0.22
 # MEMORY: 9.6M

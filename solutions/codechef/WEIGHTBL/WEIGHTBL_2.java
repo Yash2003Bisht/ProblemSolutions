@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/WEIGHTBL
+// DATE: 03/09/2022, 06:09:47
+// PROBLEM NAME: Weight Balance
+// PROBLEM URL: https://www.codechef.com/problems/WEIGHTBL
+// PROBLEM DIFFICULTY RATTING: 1045
 // STATUS: accepted
 // TIME: 0.82
 // MEMORY: 125.3M

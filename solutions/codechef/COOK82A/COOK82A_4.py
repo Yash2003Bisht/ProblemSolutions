@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/COOK82A
+# DATE: 05/08/2022, 06:02:25
+# PROBLEM NAME: La Liga
+# PROBLEM URL: https://www.codechef.com/problems/COOK82A
+# PROBLEM DIFFICULTY RATTING: 956
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.3M

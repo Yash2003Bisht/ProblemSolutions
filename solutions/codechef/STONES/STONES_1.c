@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/STONES
+// DATE: 09/02/2023, 07:07:27
+// PROBLEM NAME: Jewels and Stones
+// PROBLEM URL: https://www.codechef.com/problems/STONES
+// PROBLEM DIFFICULTY RATTING: 1248
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

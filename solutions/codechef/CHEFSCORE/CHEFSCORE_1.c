@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFSCORE
+// DATE: 02/11/2022, 07:28:58
+// PROBLEM NAME: Test Score
+// PROBLEM URL: https://www.codechef.com/problems/CHEFSCORE
+// PROBLEM DIFFICULTY RATTING: 610
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

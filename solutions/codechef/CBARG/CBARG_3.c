@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CBARG
+// DATE: 13/02/2023, 07:19:36
+// PROBLEM NAME: Chef and Memory Limit
+// PROBLEM URL: https://www.codechef.com/problems/CBARG
+// PROBLEM DIFFICULTY RATTING: 1255
 // STATUS: accepted
 // TIME: 0.03
 // MEMORY: 5.4M

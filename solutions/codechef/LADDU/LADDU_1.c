@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/LADDU
+// DATE: 03/02/2023, 08:36:49
+// PROBLEM NAME: Laddu
+// PROBLEM URL: https://www.codechef.com/problems/LADDU
+// PROBLEM DIFFICULTY RATTING: 1241
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

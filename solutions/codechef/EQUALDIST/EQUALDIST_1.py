@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/EQUALDIST
+# DATE: 29/07/2022, 06:50:11
+# PROBLEM NAME: Equal Distribution
+# PROBLEM URL: https://www.codechef.com/problems/EQUALDIST
+# PROBLEM DIFFICULTY RATTING: 330
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.1M

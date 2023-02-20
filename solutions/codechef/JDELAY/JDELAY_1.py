@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/JDELAY
+# DATE: 05/08/2022, 07:12:40
+# PROBLEM NAME: Judging Delay
+# PROBLEM URL: https://www.codechef.com/problems/JDELAY
+# PROBLEM DIFFICULTY RATTING: 964
 # STATUS: accepted
 # TIME: 0.04
 # MEMORY: 9.3M

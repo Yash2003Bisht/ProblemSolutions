@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/HOWMANYMAX
+// DATE: 12/11/2022, 07:13:40
+// PROBLEM NAME: How Many Maximums
+// PROBLEM URL: https://www.codechef.com/problems/HOWMANYMAX
+// PROBLEM DIFFICULTY RATTING: 1202
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.4M

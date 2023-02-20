@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DISABLEDKING
+// DATE: 30/01/2023, 07:40:10
+// PROBLEM NAME: Disabled King
+// PROBLEM URL: https://www.codechef.com/problems/DISABLEDKING
+// PROBLEM DIFFICULTY RATTING: 1237
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

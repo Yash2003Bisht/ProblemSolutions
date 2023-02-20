@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TCKTFINE
+// DATE: 04/09/2022, 02:54:40
+// PROBLEM NAME: Ticket Fine
+// PROBLEM URL: https://www.codechef.com/problems/TCKTFINE
+// PROBLEM DIFFICULTY RATTING: 373
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.4M

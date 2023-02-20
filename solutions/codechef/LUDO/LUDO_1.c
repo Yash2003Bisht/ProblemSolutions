@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/LUDO
+// DATE: 28/01/2023, 07:07:51
+// PROBLEM NAME: Chef Plays Ludo
+// PROBLEM URL: https://www.codechef.com/problems/LUDO
+// PROBLEM DIFFICULTY RATTING: 260
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TTENIS
+# DATE: 08/11/2022, 07:02:52
+# PROBLEM NAME: Chef and Table Tennis
+# PROBLEM URL: https://www.codechef.com/problems/TTENIS
+# PROBLEM DIFFICULTY RATTING: 1085
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.4M

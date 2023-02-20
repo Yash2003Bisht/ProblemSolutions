@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ZEROSTRING
+# DATE: 02/02/2023, 07:53:24
+# PROBLEM NAME: Zero String
+# PROBLEM URL: https://www.codechef.com/problems/ZEROSTRING
+# PROBLEM DIFFICULTY RATTING: 1042
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

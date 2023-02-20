@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/FRGAME
+# DATE: 02/08/2022, 06:45:56
+# PROBLEM NAME: Game between friends
+# PROBLEM URL: https://www.codechef.com/problems/FRGAME
+# PROBLEM DIFFICULTY RATTING: 991
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.1M

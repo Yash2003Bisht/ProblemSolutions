@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CHEFWORK
+# DATE: 17/09/2022, 07:28:38
+# PROBLEM NAME: Workers
+# PROBLEM URL: https://www.codechef.com/problems/CHEFWORK
+# PROBLEM DIFFICULTY RATTING: 1146
 # STATUS: compilation error
 # TIME: -
 # MEMORY: -

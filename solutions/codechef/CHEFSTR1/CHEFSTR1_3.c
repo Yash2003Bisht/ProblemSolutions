@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFSTR1
+// DATE: 16/11/2022, 06:36:14
+// PROBLEM NAME: Chef and Strings
+// PROBLEM URL: https://www.codechef.com/problems/CHEFSTR1
+// PROBLEM DIFFICULTY RATTING: 1094
 // STATUS: accepted
 // TIME: 0.09
 // MEMORY: 5.2M

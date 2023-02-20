@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/READPAGES
+// DATE: 02/02/2023, 08:00:28
+// PROBLEM NAME: Read Pages
+// PROBLEM URL: https://www.codechef.com/problems/READPAGES
+// PROBLEM DIFFICULTY RATTING: 343
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

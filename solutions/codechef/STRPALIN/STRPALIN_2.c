@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/STRPALIN
+// DATE: 30/01/2023, 08:00:48
+// PROBLEM NAME: Palindromic substrings
+// PROBLEM URL: https://www.codechef.com/problems/STRPALIN
+// PROBLEM DIFFICULTY RATTING: 1238
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

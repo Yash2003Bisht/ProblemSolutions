@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/JMARKET
+# DATE: 05/08/2022, 08:24:49
+# PROBLEM NAME: Janmansh at Fruit Market
+# PROBLEM URL: https://www.codechef.com/problems/JMARKET
+# PROBLEM DIFFICULTY RATTING: 947
 # STATUS: accepted
 # TIME: 0.59
 # MEMORY: 9.3M

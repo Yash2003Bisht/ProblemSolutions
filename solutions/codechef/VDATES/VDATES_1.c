@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/VDATES
+// DATE: 26/09/2022, 08:26:43
+// PROBLEM NAME: Vaccine Dates 
+// PROBLEM URL: https://www.codechef.com/problems/VDATES
+// PROBLEM DIFFICULTY RATTING: 938
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

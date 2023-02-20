@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/REMOVECARDS
+// DATE: 13/10/2022, 05:55:24
+// PROBLEM NAME: Card Removal
+// PROBLEM URL: https://www.codechef.com/problems/REMOVECARDS
+// PROBLEM DIFFICULTY RATTING: 1039
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/LASTLEVELS
+# DATE: 25/07/2022, 06:56:20
+# PROBLEM NAME: The Last Levels
+# PROBLEM URL: https://www.codechef.com/problems/LASTLEVELS
+# PROBLEM DIFFICULTY RATTING: 679
 # STATUS: wrong answer
 # TIME: 0.02
 # MEMORY: 9.1M

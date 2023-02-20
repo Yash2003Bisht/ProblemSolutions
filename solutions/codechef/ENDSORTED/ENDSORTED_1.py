@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ENDSORTED
+# DATE: 01/09/2022, 07:02:58
+# PROBLEM NAME: End Sorted
+# PROBLEM URL: https://www.codechef.com/problems/ENDSORTED
+# PROBLEM DIFFICULTY RATTING: 1049
 # STATUS: accepted
 # TIME: 0.07
 # MEMORY: 24.9M

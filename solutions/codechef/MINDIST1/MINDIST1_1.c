@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MINDIST1
+// DATE: 22/12/2022, 06:14:32
+// PROBLEM NAME: Minimum distance between 1s
+// PROBLEM URL: https://www.codechef.com/problems/MINDIST1
+// PROBLEM DIFFICULTY RATTING: 1335
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

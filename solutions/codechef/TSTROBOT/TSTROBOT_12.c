@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TSTROBOT
+// DATE: 16/09/2022, 06:57:39
+// PROBLEM NAME: Testing Robot
+// PROBLEM URL: https://www.codechef.com/problems/TSTROBOT
+// PROBLEM DIFFICULTY RATTING: 1124
 // STATUS: runtime error(SIGSEGV)
 // TIME: 0.00
 // MEMORY: 0M

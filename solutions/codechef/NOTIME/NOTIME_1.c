@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/NOTIME
+// DATE: 06/09/2022, 07:02:55
+// PROBLEM NAME: No Time to Wait
+// PROBLEM URL: https://www.codechef.com/problems/NOTIME
+// PROBLEM DIFFICULTY RATTING: 932
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

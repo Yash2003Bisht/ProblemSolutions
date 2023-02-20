@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/COMPRESSVD
+// DATE: 05/08/2022, 08:13:33
+// PROBLEM NAME: Compress the Video
+// PROBLEM URL: https://www.codechef.com/problems/COMPRESSVD
+// PROBLEM DIFFICULTY RATTING: 940
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

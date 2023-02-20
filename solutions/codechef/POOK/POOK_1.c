@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/POOK
+// DATE: 05/12/2022, 06:49:13
+// PROBLEM NAME: Game of Pooks
+// PROBLEM URL: https://www.codechef.com/problems/POOK
+// PROBLEM DIFFICULTY RATTING: 1121
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.2M

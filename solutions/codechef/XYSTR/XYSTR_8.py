@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/XYSTR
+# DATE: 14/12/2022, 06:16:30
+# PROBLEM NAME: Chef and String
+# PROBLEM URL: https://www.codechef.com/problems/XYSTR
+# PROBLEM DIFFICULTY RATTING: 1124
 # STATUS: wrong answer
 # TIME: 0.00
 # MEMORY: 0M

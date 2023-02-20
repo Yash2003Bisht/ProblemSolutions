@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BESTBATS
+// DATE: 18/01/2023, 08:20:59
+// PROBLEM NAME: Top Batsmen
+// PROBLEM URL: https://www.codechef.com/problems/BESTBATS
+// PROBLEM DIFFICULTY RATTING: 1228
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M
@@ -90,7 +93,7 @@ int main(void) {
             if (i >= 11-k && min_value == n[i]) count++;
         }
         
-        // n! / (k! * (n – k)!)
+        // n! / (k! * (n â€“ k)!)
         int ans = fact(all_count) / (fact(count) * fact(all_count - count));
         printf("%d\n", ans);
         

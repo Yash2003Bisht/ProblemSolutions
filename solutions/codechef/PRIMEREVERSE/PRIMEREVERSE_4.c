@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/PRIMEREVERSE
+// DATE: 30/12/2022, 07:10:14
+// PROBLEM NAME: Prime Reversal
+// PROBLEM URL: https://www.codechef.com/problems/PRIMEREVERSE
+// PROBLEM DIFFICULTY RATTING: 1053
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

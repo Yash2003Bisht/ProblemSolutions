@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/HORSES
+// DATE: 21/01/2023, 07:28:42
+// PROBLEM NAME: Racing Horses
+// PROBLEM URL: https://www.codechef.com/problems/HORSES
+// PROBLEM DIFFICULTY RATTING: 1231
 // STATUS: accepted
 // TIME: 0.18
 // MEMORY: 5.4M

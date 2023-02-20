@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CHEFNWRK
+# DATE: 09/09/2022, 06:50:23
+# PROBLEM NAME: Chef and Work
+# PROBLEM URL: https://www.codechef.com/problems/CHEFNWRK
+# PROBLEM DIFFICULTY RATTING: 1185
 # STATUS: accepted
 # TIME: 0.04
 # MEMORY: 9.7M

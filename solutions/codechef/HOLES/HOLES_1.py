@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/HOLES
+# DATE: 09/09/2022, 06:41:31
+# PROBLEM NAME: Holes in the text
+# PROBLEM URL: https://www.codechef.com/problems/HOLES
+# PROBLEM DIFFICULTY RATTING: 1093
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.5M

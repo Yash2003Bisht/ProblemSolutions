@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EQSARRAY
+// DATE: 19/11/2022, 07:25:47
+// PROBLEM NAME: Nahaane Jaa
+// PROBLEM URL: https://www.codechef.com/problems/EQSARRAY
+// PROBLEM DIFFICULTY RATTING: 1280
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.4M

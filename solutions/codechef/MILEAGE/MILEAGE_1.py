@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MILEAGE
+# DATE: 04/08/2022, 06:38:12
+# PROBLEM NAME: Mileage matters
+# PROBLEM URL: https://www.codechef.com/problems/MILEAGE
+# PROBLEM DIFFICULTY RATTING: 831
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.3M

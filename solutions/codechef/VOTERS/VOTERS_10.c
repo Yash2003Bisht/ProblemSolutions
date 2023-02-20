@@ -1,5 +1,8 @@
-// QUESTION URL: https://www.codechef.com/problems/VOTERS
-// STATUS: runtime error(OTHER)
+// DATE: 11/10/2022, 12:05:46
+// PROBLEM NAME: Discrepancies in the Voters List
+// PROBLEM URL: https://www.codechef.com/problems/VOTERS
+// PROBLEM DIFFICULTY RATTING: 1114
+// STATUS: runtime errorOTHER
 // TIME: 0.87
 // MEMORY: 2045.2M
 

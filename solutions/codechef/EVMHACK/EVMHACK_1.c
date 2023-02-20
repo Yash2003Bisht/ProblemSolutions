@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EVMHACK
+// DATE: 23/01/2023, 07:47:56
+// PROBLEM NAME: EVM Hacking
+// PROBLEM URL: https://www.codechef.com/problems/EVMHACK
+// PROBLEM DIFFICULTY RATTING: 1223
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CLLCM
+# DATE: 24/11/2022, 06:35:17
+# PROBLEM NAME: Chef vs Doof
+# PROBLEM URL: https://www.codechef.com/problems/CLLCM
+# PROBLEM DIFFICULTY RATTING: 1108
 # STATUS: wrong answer
 # TIME: 0.15
 # MEMORY: 9.9M

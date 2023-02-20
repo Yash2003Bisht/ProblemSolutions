@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SUSSTR
+// DATE: 01/02/2023, 08:48:07
+// PROBLEM NAME: Suspense String
+// PROBLEM URL: https://www.codechef.com/problems/SUSSTR
+// PROBLEM DIFFICULTY RATTING: 1239
 // STATUS: runtime error(SIGSEGV)
 // TIME: 0.00
 // MEMORY: 5.1M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EQUALCOIN
+// DATE: 24/01/2023, 08:10:58
+// PROBLEM NAME: Equal Coins
+// PROBLEM URL: https://www.codechef.com/problems/EQUALCOIN
+// PROBLEM DIFFICULTY RATTING: 1233
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

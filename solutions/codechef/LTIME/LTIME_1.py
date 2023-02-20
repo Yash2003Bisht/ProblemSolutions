@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/LTIME
+# DATE: 29/07/2022, 07:02:49
+# PROBLEM NAME: Lunchtime
+# PROBLEM URL: https://www.codechef.com/problems/LTIME
+# PROBLEM DIFFICULTY RATTING: 352
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.1M

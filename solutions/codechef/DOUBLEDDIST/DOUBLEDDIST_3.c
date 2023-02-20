@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DOUBLEDDIST
+// DATE: 15/02/2023, 08:04:47
+// PROBLEM NAME: Doubled Distances
+// PROBLEM URL: https://www.codechef.com/problems/DOUBLEDDIST
+// PROBLEM DIFFICULTY RATTING: 1241
 // STATUS: accepted
 // TIME: 0.03
 // MEMORY: 5.3M

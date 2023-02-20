@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TRUEDARE
+// DATE: 21/01/2023, 08:21:11
+// PROBLEM NAME: Truth and Dare
+// PROBLEM URL: https://www.codechef.com/problems/TRUEDARE
+// PROBLEM DIFFICULTY RATTING: 1231
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

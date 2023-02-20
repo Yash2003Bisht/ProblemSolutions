@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/PROC18A
+# DATE: 10/09/2022, 05:55:16
+# PROBLEM NAME: The Great Run
+# PROBLEM URL: https://www.codechef.com/problems/PROC18A
+# PROBLEM DIFFICULTY RATTING: 1097
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.6M

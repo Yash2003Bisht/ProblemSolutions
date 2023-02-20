@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/PROBCAT
+// DATE: 26/09/2022, 08:07:45
+// PROBLEM NAME: Problem Category
+// PROBLEM URL: https://www.codechef.com/problems/PROBCAT
+// PROBLEM DIFFICULTY RATTING: 860
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

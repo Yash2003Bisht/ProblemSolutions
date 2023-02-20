@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/HILLS
+// DATE: 04/01/2023, 07:27:57
+// PROBLEM NAME: Jumping in the hills
+// PROBLEM URL: https://www.codechef.com/problems/HILLS
+// PROBLEM DIFFICULTY RATTING: 1216
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

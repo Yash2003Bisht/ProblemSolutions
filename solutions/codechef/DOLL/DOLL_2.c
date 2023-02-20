@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DOLL
+// DATE: 08/10/2022, 07:37:51
+// PROBLEM NAME: Red Light, Green Light
+// PROBLEM URL: https://www.codechef.com/problems/DOLL
+// PROBLEM DIFFICULTY RATTING: 984
 // STATUS: accepted
 // TIME: 0.04
 // MEMORY: 5.3M

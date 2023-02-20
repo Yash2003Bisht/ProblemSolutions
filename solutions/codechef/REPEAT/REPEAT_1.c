@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/REPEAT
+// DATE: 07/01/2023, 07:49:56
+// PROBLEM NAME: Odd Repeat
+// PROBLEM URL: https://www.codechef.com/problems/REPEAT
+// PROBLEM DIFFICULTY RATTING: 1218
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

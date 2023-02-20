@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FINALSUM
+// DATE: 27/10/2022, 06:27:58
+// PROBLEM NAME: Final Sum
+// PROBLEM URL: https://www.codechef.com/problems/FINALSUM
+// PROBLEM DIFFICULTY RATTING: 1145
 // STATUS: accepted
 // TIME: 0.08
 // MEMORY: 5.3M

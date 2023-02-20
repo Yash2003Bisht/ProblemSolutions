@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/PIZZA_BURGER
+// DATE: 15/10/2022, 05:59:58
+// PROBLEM NAME: Hungry Ashish
+// PROBLEM URL: https://www.codechef.com/problems/PIZZA_BURGER
+// PROBLEM DIFFICULTY RATTING: 1064
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

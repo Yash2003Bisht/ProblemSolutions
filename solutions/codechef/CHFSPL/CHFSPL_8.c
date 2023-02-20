@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHFSPL
+// DATE: 04/09/2022, 05:08:50
+// PROBLEM NAME: Chef and Spells
+// PROBLEM URL: https://www.codechef.com/problems/CHFSPL
+// PROBLEM DIFFICULTY RATTING: 965
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFWORK
+// DATE: 17/09/2022, 06:48:46
+// PROBLEM NAME: Workers
+// PROBLEM URL: https://www.codechef.com/problems/CHEFWORK
+// PROBLEM DIFFICULTY RATTING: 1146
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.3M

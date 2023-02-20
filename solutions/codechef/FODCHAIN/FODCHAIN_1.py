@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/FODCHAIN
+# DATE: 21/10/2022, 06:59:38
+# PROBLEM NAME: Food Chain
+# PROBLEM URL: https://www.codechef.com/problems/FODCHAIN
+# PROBLEM DIFFICULTY RATTING: 1062
 # STATUS: accepted
 # TIME: 0.07
 # MEMORY: 9.5M

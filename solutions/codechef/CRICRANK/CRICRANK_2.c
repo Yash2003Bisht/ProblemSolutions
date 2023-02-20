@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CRICRANK
+// DATE: 04/09/2022, 04:36:36
+// PROBLEM NAME: Cricket Ranking
+// PROBLEM URL: https://www.codechef.com/problems/CRICRANK
+// PROBLEM DIFFICULTY RATTING: 966
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

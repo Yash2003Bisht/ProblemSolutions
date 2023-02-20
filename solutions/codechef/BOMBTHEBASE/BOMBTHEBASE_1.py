@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/BOMBTHEBASE
+# DATE: 03/08/2022, 07:29:01
+# PROBLEM NAME: Bomb the base
+# PROBLEM URL: https://www.codechef.com/problems/BOMBTHEBASE
+# PROBLEM DIFFICULTY RATTING: 982
 # STATUS: accepted
 # TIME: 0.05
 # MEMORY: 19.9M

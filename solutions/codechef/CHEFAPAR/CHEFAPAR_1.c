@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFAPAR
+// DATE: 31/01/2023, 07:36:16
+// PROBLEM NAME: Chef and His Apartment Dues
+// PROBLEM URL: https://www.codechef.com/problems/CHEFAPAR
+// PROBLEM DIFFICULTY RATTING: 1238
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.4M

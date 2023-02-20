@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHFDBT
+// DATE: 06/12/2022, 07:36:24
+// PROBLEM NAME: Akash and Function
+// PROBLEM URL: https://www.codechef.com/problems/CHFDBT
+// PROBLEM DIFFICULTY RATTING: 1121
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/JERRYCHASE
+// DATE: 16/02/2023, 08:16:08
+// PROBLEM NAME: Tom and Jerry Chase
+// PROBLEM URL: https://www.codechef.com/problems/JERRYCHASE
+// PROBLEM DIFFICULTY RATTING: 298
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.4M

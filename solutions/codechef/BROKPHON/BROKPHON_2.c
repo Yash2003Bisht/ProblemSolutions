@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BROKPHON
+// DATE: 26/12/2022, 07:11:16
+// PROBLEM NAME: Broken Telephone
+// PROBLEM URL: https://www.codechef.com/problems/BROKPHON
+// PROBLEM DIFFICULTY RATTING: 1204
 // STATUS: accepted
 // TIME: 0.07
 // MEMORY: 5.4M

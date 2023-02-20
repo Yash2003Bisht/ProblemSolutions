@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/WALK
+// DATE: 08/02/2023, 07:33:51
+// PROBLEM NAME: Walk
+// PROBLEM URL: https://www.codechef.com/problems/WALK
+// PROBLEM DIFFICULTY RATTING: 1247
 // STATUS: accepted
 // TIME: 0.11
 // MEMORY: 5.3M

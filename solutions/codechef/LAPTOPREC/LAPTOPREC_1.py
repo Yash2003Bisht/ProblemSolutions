@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/LAPTOPREC
+# DATE: 14/09/2022, 06:32:09
+# PROBLEM NAME: Laptop Recommendation 
+# PROBLEM URL: https://www.codechef.com/problems/LAPTOPREC
+# PROBLEM DIFFICULTY RATTING: 1104
 # STATUS: accepted
 # TIME: 0.05
 # MEMORY: 9.7M

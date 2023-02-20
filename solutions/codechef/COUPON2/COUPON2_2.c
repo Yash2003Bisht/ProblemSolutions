@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/COUPON2
+// DATE: 11/01/2023, 07:49:37
+// PROBLEM NAME: Chef and Coupon
+// PROBLEM URL: https://www.codechef.com/problems/COUPON2
+// PROBLEM DIFFICULTY RATTING: 1222
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

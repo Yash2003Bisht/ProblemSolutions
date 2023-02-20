@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ATTENDU
+// DATE: 08/09/2022, 07:14:08
+// PROBLEM NAME: Minimum Attendance Requirement
+// PROBLEM URL: https://www.codechef.com/problems/ATTENDU
+// PROBLEM DIFFICULTY RATTING: 1053
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TSTROBOT
+# DATE: 16/09/2022, 06:13:48
+# PROBLEM NAME: Testing Robot
+# PROBLEM URL: https://www.codechef.com/problems/TSTROBOT
+# PROBLEM DIFFICULTY RATTING: 1124
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.7M

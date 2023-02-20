@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFNWRK
+// DATE: 09/09/2022, 06:57:25
+// PROBLEM NAME: Chef and Work
+// PROBLEM URL: https://www.codechef.com/problems/CHEFNWRK
+// PROBLEM DIFFICULTY RATTING: 1185
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.2M

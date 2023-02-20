@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/DARLIG
+# DATE: 04/08/2022, 06:52:48
+# PROBLEM NAME: Dark Light
+# PROBLEM URL: https://www.codechef.com/problems/DARLIG
+# PROBLEM DIFFICULTY RATTING: 994
 # STATUS: wrong answer
 # TIME: 0.00
 # MEMORY: 0M

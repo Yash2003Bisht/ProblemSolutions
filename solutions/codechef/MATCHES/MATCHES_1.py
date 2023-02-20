@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MATCHES
+# DATE: 02/08/2022, 07:31:45
+# PROBLEM NAME: Playing with Matches
+# PROBLEM URL: https://www.codechef.com/problems/MATCHES
+# PROBLEM DIFFICULTY RATTING: 986
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.1M

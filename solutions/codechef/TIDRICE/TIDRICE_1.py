@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TIDRICE
+# DATE: 07/02/2023, 08:25:45
+# PROBLEM NAME: Popular Rice Recipe
+# PROBLEM URL: https://www.codechef.com/problems/TIDRICE
+# PROBLEM DIFFICULTY RATTING: 1247
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.6M

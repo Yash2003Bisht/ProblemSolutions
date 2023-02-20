@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MOBKUN
+# DATE: 26/11/2022, 05:18:24
+# PROBLEM NAME: Just Like Mob!
+# PROBLEM URL: https://www.codechef.com/problems/MOBKUN
+# PROBLEM DIFFICULTY RATTING: 1242
 # STATUS: accepted
 # TIME: 0.54
 # MEMORY: 9.6M

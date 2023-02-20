@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BROKENPHONE
+// DATE: 10/09/2022, 06:25:20
+// PROBLEM NAME: Broken Phone
+// PROBLEM URL: https://www.codechef.com/problems/BROKENPHONE
+// PROBLEM DIFFICULTY RATTING: 451
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

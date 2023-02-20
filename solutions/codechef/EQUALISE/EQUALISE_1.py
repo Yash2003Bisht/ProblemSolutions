@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/EQUALISE
+# DATE: 12/08/2022, 09:30:50
+# PROBLEM NAME: Make A and B equal
+# PROBLEM URL: https://www.codechef.com/problems/EQUALISE
+# PROBLEM DIFFICULTY RATTING: 851
 # STATUS: accepted
 # TIME: 0.04
 # MEMORY: 9.6M

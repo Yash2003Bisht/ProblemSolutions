@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/WGHTS
+// DATE: 04/09/2022, 04:23:51
+// PROBLEM NAME: Weights
+// PROBLEM URL: https://www.codechef.com/problems/WGHTS
+// PROBLEM DIFFICULTY RATTING: 697
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/AVGPROBLEM
+// DATE: 04/09/2022, 04:15:40
+// PROBLEM NAME: Greater Average
+// PROBLEM URL: https://www.codechef.com/problems/AVGPROBLEM
+// PROBLEM DIFFICULTY RATTING: 500
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

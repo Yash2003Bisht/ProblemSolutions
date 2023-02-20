@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CO92JUDG
+# DATE: 03/08/2022, 07:02:58
+# PROBLEM NAME: Chef Judges a Competition
+# PROBLEM URL: https://www.codechef.com/problems/CO92JUDG
+# PROBLEM DIFFICULTY RATTING: 984
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 8.9M

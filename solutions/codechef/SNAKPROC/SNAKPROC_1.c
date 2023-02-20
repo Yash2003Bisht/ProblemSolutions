@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SNAKPROC
+// DATE: 07/10/2022, 06:09:29
+// PROBLEM NAME: Snake Procession
+// PROBLEM URL: https://www.codechef.com/problems/SNAKPROC
+// PROBLEM DIFFICULTY RATTING: 1014
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

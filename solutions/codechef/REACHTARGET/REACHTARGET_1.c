@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/REACHTARGET
+// DATE: 02/10/2022, 03:56:22
+// PROBLEM NAME: Reach the Target
+// PROBLEM URL: https://www.codechef.com/problems/REACHTARGET
+// PROBLEM DIFFICULTY RATTING: 281
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

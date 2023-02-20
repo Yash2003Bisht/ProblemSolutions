@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/HEADBOB
+// DATE: 08/09/2022, 12:49:46
+// PROBLEM NAME: Tanu and Head-bob
+// PROBLEM URL: https://www.codechef.com/problems/HEADBOB
+// PROBLEM DIFFICULTY RATTING: 1065
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

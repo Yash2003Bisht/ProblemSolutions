@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FFL
+// DATE: 17/01/2023, 07:32:32
+// PROBLEM NAME: Chef in Fantasy League
+// PROBLEM URL: https://www.codechef.com/problems/FFL
+// PROBLEM DIFFICULTY RATTING: 1225
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.4M

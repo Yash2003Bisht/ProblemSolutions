@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BALLBOX
+// DATE: 10/09/2022, 06:07:21
+// PROBLEM NAME: Balls and Boxes
+// PROBLEM URL: https://www.codechef.com/problems/BALLBOX
+// PROBLEM DIFFICULTY RATTING: 994
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.3M

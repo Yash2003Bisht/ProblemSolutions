@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TWODIFFPALIN
+// DATE: 03/01/2023, 07:18:57
+// PROBLEM NAME: Two Different Palindromes
+// PROBLEM URL: https://www.codechef.com/problems/TWODIFFPALIN
+// PROBLEM DIFFICULTY RATTING: 1216
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.2M

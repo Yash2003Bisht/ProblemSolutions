@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CHEFNWRK
+# DATE: 09/09/2022, 05:58:26
+# PROBLEM NAME: Chef and Work
+# PROBLEM URL: https://www.codechef.com/problems/CHEFNWRK
+# PROBLEM DIFFICULTY RATTING: 1185
 # STATUS: time limit exceeded
 # TIME: -
 # MEMORY: 9.4M

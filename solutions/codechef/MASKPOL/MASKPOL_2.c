@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MASKPOL
+// DATE: 13/09/2022, 06:21:06
+// PROBLEM NAME: Mask Policy
+// PROBLEM URL: https://www.codechef.com/problems/MASKPOL
+// PROBLEM DIFFICULTY RATTING: 1064
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.2M

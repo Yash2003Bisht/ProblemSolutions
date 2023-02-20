@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/RECNDSTR
+// DATE: 28/12/2022, 07:02:56
+// PROBLEM NAME: Chef and String
+// PROBLEM URL: https://www.codechef.com/problems/RECNDSTR
+// PROBLEM DIFFICULTY RATTING: 1206
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

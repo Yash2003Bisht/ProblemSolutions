@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/PERMEXIS
+# DATE: 28/12/2022, 09:47:45
+# PROBLEM NAME: Watson asks Does Permutation Exist
+# PROBLEM URL: https://www.codechef.com/problems/PERMEXIS
+# PROBLEM DIFFICULTY RATTING: 1207
 # STATUS: accepted
 # TIME: 0.09
 # MEMORY: 24.5M

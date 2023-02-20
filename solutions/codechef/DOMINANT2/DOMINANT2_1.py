@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/DOMINANT2
+# DATE: 10/08/2022, 08:49:30
+# PROBLEM NAME: Dominant Element
+# PROBLEM URL: https://www.codechef.com/problems/DOMINANT2
+# PROBLEM DIFFICULTY RATTING: 1171
 # STATUS: accepted
 # TIME: 0.14
 # MEMORY: 9.9M

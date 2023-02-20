@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DIVAB
+// DATE: 16/01/2023, 08:27:05
+// PROBLEM NAME: To Divide or Not To Divide
+// PROBLEM URL: https://www.codechef.com/problems/DIVAB
+// PROBLEM DIFFICULTY RATTING: 1224
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.2M

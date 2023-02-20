@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHFPARTY
+// DATE: 14/01/2023, 07:35:24
+// PROBLEM NAME: Chef and Party
+// PROBLEM URL: https://www.codechef.com/problems/CHFPARTY
+// PROBLEM DIFFICULTY RATTING: 1223
 // STATUS: accepted
 // TIME: 0.07
 // MEMORY: 5.3M

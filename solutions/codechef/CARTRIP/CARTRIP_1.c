@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CARTRIP
+// DATE: 04/09/2022, 02:59:36
+// PROBLEM NAME: Car Trip
+// PROBLEM URL: https://www.codechef.com/problems/CARTRIP
+// PROBLEM DIFFICULTY RATTING: 374
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SNDMAX
+// DATE: 06/09/2022, 02:19:10
+// PROBLEM NAME: Second Max of Three Numbers
+// PROBLEM URL: https://www.codechef.com/problems/SNDMAX
+// PROBLEM DIFFICULTY RATTING: 300
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHFM
+// DATE: 19/01/2023, 08:49:39
+// PROBLEM NAME: Chef and Mean  
+// PROBLEM URL: https://www.codechef.com/problems/CHFM
+// PROBLEM DIFFICULTY RATTING: 1229
 // STATUS: accepted
 // TIME: 0.10
 // MEMORY: 5.4M

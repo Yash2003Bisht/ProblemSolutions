@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MODEFREQ
+# DATE: 25/01/2023, 08:36:17
+# PROBLEM NAME: Mode of Frequencies
+# PROBLEM URL: https://www.codechef.com/problems/MODEFREQ
+# PROBLEM DIFFICULTY RATTING: 1234
 # STATUS: accepted
 # TIME: 0.13
 # MEMORY: 9.9M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MAKEMULTIPLE
+// DATE: 28/10/2022, 06:31:11
+// PROBLEM NAME: Make Multiple
+// PROBLEM URL: https://www.codechef.com/problems/MAKEMULTIPLE
+// PROBLEM DIFFICULTY RATTING: 1163
 // STATUS: accepted
 // TIME: 0.15
 // MEMORY: 5.3M

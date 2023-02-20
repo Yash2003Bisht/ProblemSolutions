@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BATTERYLOW
+// DATE: 10/09/2022, 01:17:30
+// PROBLEM NAME: Battery Low
+// PROBLEM URL: https://www.codechef.com/problems/BATTERYLOW
+// PROBLEM DIFFICULTY RATTING: 479
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

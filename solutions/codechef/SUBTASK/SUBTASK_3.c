@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SUBTASK
+// DATE: 05/01/2023, 07:41:33
+// PROBLEM NAME: A Subtask Problem
+// PROBLEM URL: https://www.codechef.com/problems/SUBTASK
+// PROBLEM DIFFICULTY RATTING: 1217
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

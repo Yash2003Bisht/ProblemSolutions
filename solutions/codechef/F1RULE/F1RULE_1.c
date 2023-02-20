@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/F1RULE
+// DATE: 12/09/2022, 08:05:06
+// PROBLEM NAME: Miami GP
+// PROBLEM URL: https://www.codechef.com/problems/F1RULE
+// PROBLEM DIFFICULTY RATTING: 487
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

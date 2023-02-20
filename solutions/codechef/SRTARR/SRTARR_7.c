@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SRTARR
+// DATE: 30/11/2022, 06:13:46
+// PROBLEM NAME: Sort the String
+// PROBLEM URL: https://www.codechef.com/problems/SRTARR
+// PROBLEM DIFFICULTY RATTING: 1112
 // STATUS: accepted
 // TIME: 0.04
 // MEMORY: 5.3M

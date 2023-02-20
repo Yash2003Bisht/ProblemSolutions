@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/STICKBREAK
+// DATE: 12/12/2022, 06:11:37
+// PROBLEM NAME: Stick Break
+// PROBLEM URL: https://www.codechef.com/problems/STICKBREAK
+// PROBLEM DIFFICULTY RATTING: 1123
 // STATUS: wrong answer
 // TIME: 0.08
 // MEMORY: 53.9M

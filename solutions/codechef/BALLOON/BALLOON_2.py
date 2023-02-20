@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/BALLOON
+# DATE: 27/12/2022, 06:29:57
+# PROBLEM NAME: ICPC Balloons
+# PROBLEM URL: https://www.codechef.com/problems/BALLOON
+# PROBLEM DIFFICULTY RATTING: 1205
 # STATUS: accepted
 # TIME: 0.09
 # MEMORY: 9.5M

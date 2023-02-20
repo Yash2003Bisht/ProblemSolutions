@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHNGIT
+// DATE: 20/10/2022, 07:25:39
+// PROBLEM NAME: Change It
+// PROBLEM URL: https://www.codechef.com/problems/CHNGIT
+// PROBLEM DIFFICULTY RATTING: 1061
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

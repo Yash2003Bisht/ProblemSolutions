@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BURGERS2
+// DATE: 14/11/2022, 06:27:46
+// PROBLEM NAME: Hungry Chef
+// PROBLEM URL: https://www.codechef.com/problems/BURGERS2
+// PROBLEM DIFFICULTY RATTING: 1187
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

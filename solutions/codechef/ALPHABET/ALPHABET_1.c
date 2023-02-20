@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ALPHABET
+// DATE: 13/12/2022, 06:53:59
+// PROBLEM NAME: Studying Alphabet
+// PROBLEM URL: https://www.codechef.com/problems/ALPHABET
+// PROBLEM DIFFICULTY RATTING: 1123
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

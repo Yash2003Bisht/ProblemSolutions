@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DANOW
+// DATE: 01/10/2022, 05:47:14
+// PROBLEM NAME: Danny Wants To Know
+// PROBLEM URL: https://www.codechef.com/problems/DANOW
+// PROBLEM DIFFICULTY RATTING: 1088
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.4M

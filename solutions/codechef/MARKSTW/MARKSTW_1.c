@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MARKSTW
+// DATE: 25/09/2022, 11:53:46
+// PROBLEM NAME: Alice and Marks
+// PROBLEM URL: https://www.codechef.com/problems/MARKSTW
+// PROBLEM DIFFICULTY RATTING: 362
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

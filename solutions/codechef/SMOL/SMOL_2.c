@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SMOL
+// DATE: 27/09/2022, 06:04:21
+// PROBLEM NAME: Smallest Possible Whole Number
+// PROBLEM URL: https://www.codechef.com/problems/SMOL
+// PROBLEM DIFFICULTY RATTING: 1306
 // STATUS: runtime error(SIGFPE)
 // TIME: 0.00
 // MEMORY: 0M

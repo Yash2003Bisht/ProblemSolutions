@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/BUYLAMP
+# DATE: 25/07/2022, 08:01:25
+# PROBLEM NAME: Buy Lamps
+# PROBLEM URL: https://www.codechef.com/problems/BUYLAMP
+# PROBLEM DIFFICULTY RATTING: 775
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.2M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ABSTRING
+# DATE: 15/11/2022, 06:33:37
+# PROBLEM NAME: String Game
+# PROBLEM URL: https://www.codechef.com/problems/ABSTRING
+# PROBLEM DIFFICULTY RATTING: 1102
 # STATUS: time limit exceeded
 # TIME: -
 # MEMORY: 9.5M

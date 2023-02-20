@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/COPS
+// DATE: 04/02/2023, 08:40:39
+// PROBLEM NAME: Cops and the Thief Devu
+// PROBLEM URL: https://www.codechef.com/problems/COPS
+// PROBLEM DIFFICULTY RATTING: 1242
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.4M

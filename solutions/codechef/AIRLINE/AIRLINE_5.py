@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/AIRLINE
+# DATE: 30/08/2022, 06:48:56
+# PROBLEM NAME: Airline Restrictions
+# PROBLEM URL: https://www.codechef.com/problems/AIRLINE
+# PROBLEM DIFFICULTY RATTING: 1042
 # STATUS: wrong answer
 # TIME: 0.00
 # MEMORY: 0M

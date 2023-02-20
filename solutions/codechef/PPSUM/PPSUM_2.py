@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/PPSUM
+# DATE: 03/08/2022, 04:36:35
+# PROBLEM NAME: Puppy and Sum
+# PROBLEM URL: https://www.codechef.com/problems/PPSUM
+# PROBLEM DIFFICULTY RATTING: 961
 # STATUS: wrong answer
 # TIME: 0.02
 # MEMORY: 9.3M

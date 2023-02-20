@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TVDISC
+# DATE: 10/08/2022, 08:36:04
+# PROBLEM NAME: TV Discount
+# PROBLEM URL: https://www.codechef.com/problems/TVDISC
+# PROBLEM DIFFICULTY RATTING: 447
 # STATUS: accepted
 # TIME: 0.05
 # MEMORY: 9.7M

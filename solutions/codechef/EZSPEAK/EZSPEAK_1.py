@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/EZSPEAK
+# DATE: 15/08/2022, 09:28:20
+# PROBLEM NAME: Easy Pronunciation
+# PROBLEM URL: https://www.codechef.com/problems/EZSPEAK
+# PROBLEM DIFFICULTY RATTING: 1000
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.6M

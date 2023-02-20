@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EQPAIR
+// DATE: 16/02/2023, 07:59:43
+// PROBLEM NAME: Good Pairs
+// PROBLEM URL: https://www.codechef.com/problems/EQPAIR
+// PROBLEM DIFFICULTY RATTING: 1248
 // STATUS: accepted
 // TIME: 0.06
 // MEMORY: 5.3M

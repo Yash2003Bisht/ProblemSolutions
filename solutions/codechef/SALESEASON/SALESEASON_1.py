@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/SALESEASON
+# DATE: 12/08/2022, 09:16:32
+# PROBLEM NAME: Sale Season
+# PROBLEM URL: https://www.codechef.com/problems/SALESEASON
+# PROBLEM DIFFICULTY RATTING: 541
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.6M

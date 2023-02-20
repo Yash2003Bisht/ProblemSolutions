@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/XYSTR
+// DATE: 14/12/2022, 06:32:42
+// PROBLEM NAME: Chef and String
+// PROBLEM URL: https://www.codechef.com/problems/XYSTR
+// PROBLEM DIFFICULTY RATTING: 1124
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.1M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FLOW001
+// DATE: 20/07/2022, 07:22:21
+// PROBLEM NAME: Add Two Numbers
+// PROBLEM URL: https://www.codechef.com/problems/FLOW001
+// PROBLEM DIFFICULTY RATTING: 242
 // STATUS: accepted
 // TIME: 0.25
 // MEMORY: 47.9M

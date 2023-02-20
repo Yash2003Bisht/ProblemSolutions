@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CHAIRS_
+# DATE: 27/07/2022, 06:49:14
+# PROBLEM NAME: Chairs Requirement
+# PROBLEM URL: https://www.codechef.com/problems/CHAIRS_
+# PROBLEM DIFFICULTY RATTING: 305
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.3M

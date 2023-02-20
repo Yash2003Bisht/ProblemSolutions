@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/HOLIDAYS
+# DATE: 12/09/2022, 05:49:27
+# PROBLEM NAME: Lazy Salesman
+# PROBLEM URL: https://www.codechef.com/problems/HOLIDAYS
+# PROBLEM DIFFICULTY RATTING: 1161
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

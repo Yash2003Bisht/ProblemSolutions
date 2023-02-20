@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EASYPERM
+// DATE: 02/11/2022, 06:44:47
+// PROBLEM NAME: Easy Permutation
+// PROBLEM URL: https://www.codechef.com/problems/EASYPERM
+// PROBLEM DIFFICULTY RATTING: 1057
 // STATUS: accepted
 // TIME: 0.03
 // MEMORY: 5.2M

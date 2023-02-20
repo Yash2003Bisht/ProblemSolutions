@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/INCRIQ
+// DATE: 10/09/2022, 01:16:13
+// PROBLEM NAME: Increase IQ
+// PROBLEM URL: https://www.codechef.com/problems/INCRIQ
+// PROBLEM DIFFICULTY RATTING: 478
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.3M

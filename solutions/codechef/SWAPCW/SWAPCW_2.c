@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SWAPCW
+// DATE: 31/01/2023, 08:57:49
+// PROBLEM NAME: Swapping Chefs Way
+// PROBLEM URL: https://www.codechef.com/problems/SWAPCW
+// PROBLEM DIFFICULTY RATTING: 1238
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

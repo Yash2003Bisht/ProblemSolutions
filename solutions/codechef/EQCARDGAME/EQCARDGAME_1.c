@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EQCARDGAME
+// DATE: 31/10/2022, 06:25:33
+// PROBLEM NAME: Equal Card Game
+// PROBLEM URL: https://www.codechef.com/problems/EQCARDGAME
+// PROBLEM DIFFICULTY RATTING: 1058
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

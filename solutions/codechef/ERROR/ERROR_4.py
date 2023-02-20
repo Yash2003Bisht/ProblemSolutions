@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ERROR
+# DATE: 16/08/2022, 06:26:05
+# PROBLEM NAME: Chef and Feedback
+# PROBLEM URL: https://www.codechef.com/problems/ERROR
+# PROBLEM DIFFICULTY RATTING: 1199
 # STATUS: accepted
 # TIME: 1.38
 # MEMORY: 11.2M

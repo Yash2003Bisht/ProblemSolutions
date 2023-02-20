@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TWODISH
+// DATE: 26/09/2022, 08:18:45
+// PROBLEM NAME: Two Dishes
+// PROBLEM URL: https://www.codechef.com/problems/TWODISH
+// PROBLEM DIFFICULTY RATTING: 1140
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

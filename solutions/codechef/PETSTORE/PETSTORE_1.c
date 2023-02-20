@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/PETSTORE
+// DATE: 29/12/2022, 07:29:15
+// PROBLEM NAME: Pet Store
+// PROBLEM URL: https://www.codechef.com/problems/PETSTORE
+// PROBLEM DIFFICULTY RATTING: 1126
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

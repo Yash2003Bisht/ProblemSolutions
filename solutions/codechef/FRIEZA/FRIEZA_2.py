@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/FRIEZA
+# DATE: 03/10/2022, 06:35:06
+# PROBLEM NAME: Immortal Frieza
+# PROBLEM URL: https://www.codechef.com/problems/FRIEZA
+# PROBLEM DIFFICULTY RATTING: 1172
 # STATUS: accepted
 # TIME: 0.06
 # MEMORY: 9.7M

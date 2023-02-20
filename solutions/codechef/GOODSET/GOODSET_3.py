@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/GOODSET
+# DATE: 27/01/2023, 07:17:00
+# PROBLEM NAME: A Good Set
+# PROBLEM URL: https://www.codechef.com/problems/GOODSET
+# PROBLEM DIFFICULTY RATTING: 1231
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.6M

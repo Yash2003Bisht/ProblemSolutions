@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/PATHPAR
+// DATE: 18/11/2022, 06:21:57
+// PROBLEM NAME: Path Parity
+// PROBLEM URL: https://www.codechef.com/problems/PATHPAR
+// PROBLEM DIFFICULTY RATTING: 1098
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.2M

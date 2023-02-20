@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ANUUND
+# DATE: 18/08/2022, 06:17:23
+# PROBLEM NAME: Ups and Downs
+# PROBLEM URL: https://www.codechef.com/problems/ANUUND
+# PROBLEM DIFFICULTY RATTING: 1198
 # STATUS: runtime error(NZEC)
 # TIME: 0.07
 # MEMORY: 23.2M

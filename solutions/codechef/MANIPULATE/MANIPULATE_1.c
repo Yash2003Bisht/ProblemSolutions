@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MANIPULATE
+// DATE: 07/09/2022, 08:04:44
+// PROBLEM NAME: Ezio and Guards
+// PROBLEM URL: https://www.codechef.com/problems/MANIPULATE
+// PROBLEM DIFFICULTY RATTING: 427
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

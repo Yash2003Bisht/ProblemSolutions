@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/COUNTP
+# DATE: 01/12/2022, 06:41:34
+# PROBLEM NAME: Counting Problem
+# PROBLEM URL: https://www.codechef.com/problems/COUNTP
+# PROBLEM DIFFICULTY RATTING: 1065
 # STATUS: wrong answer
 # TIME: 0.00
 # MEMORY: 0M

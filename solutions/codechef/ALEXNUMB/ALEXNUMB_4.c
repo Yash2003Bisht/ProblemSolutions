@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ALEXNUMB
+// DATE: 06/02/2023, 07:56:37
+// PROBLEM NAME: Magic Pairs
+// PROBLEM URL: https://www.codechef.com/problems/ALEXNUMB
+// PROBLEM DIFFICULTY RATTING: 1245
 // STATUS: wrong answer
 // TIME: 0.03
 // MEMORY: 5.2M

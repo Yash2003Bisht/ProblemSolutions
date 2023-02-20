@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ANUUND
+# DATE: 18/08/2022, 06:28:24
+# PROBLEM NAME: Ups and Downs
+# PROBLEM URL: https://www.codechef.com/problems/ANUUND
+# PROBLEM DIFFICULTY RATTING: 1198
 # STATUS: accepted
 # TIME: 0.48
 # MEMORY: 24.7M

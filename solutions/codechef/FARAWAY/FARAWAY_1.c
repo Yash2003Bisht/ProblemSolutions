@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FARAWAY
+// DATE: 07/11/2022, 09:33:46
+// PROBLEM NAME: Far Away
+// PROBLEM URL: https://www.codechef.com/problems/FARAWAY
+// PROBLEM DIFFICULTY RATTING: 1090
 // STATUS: accepted
 // TIME: 0.04
 // MEMORY: 5.3M

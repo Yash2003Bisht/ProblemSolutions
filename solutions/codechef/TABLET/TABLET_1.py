@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TABLET
+# DATE: 30/08/2022, 06:26:53
+# PROBLEM NAME: Buying New Tablet
+# PROBLEM URL: https://www.codechef.com/problems/TABLET
+# PROBLEM DIFFICULTY RATTING: 1037
 # STATUS: accepted
 # TIME: 0.04
 # MEMORY: 9.6M

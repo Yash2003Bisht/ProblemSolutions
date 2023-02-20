@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/EVENTUAL
+# DATE: 02/09/2022, 05:39:01
+# PROBLEM NAME: Even-tual Reduction
+# PROBLEM URL: https://www.codechef.com/problems/EVENTUAL
+# PROBLEM DIFFICULTY RATTING: 1040
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.6M

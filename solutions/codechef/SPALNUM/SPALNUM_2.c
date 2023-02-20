@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SPALNUM
+// DATE: 20/01/2023, 07:26:55
+// PROBLEM NAME: Sum of palindromic numbers
+// PROBLEM URL: https://www.codechef.com/problems/SPALNUM
+// PROBLEM DIFFICULTY RATTING: 1230
 // STATUS: accepted
 // TIME: 0.08
 // MEMORY: 5.1M

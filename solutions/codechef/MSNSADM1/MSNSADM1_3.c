@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MSNSADM1
+// DATE: 15/09/2022, 07:51:59
+// PROBLEM NAME: Football
+// PROBLEM URL: https://www.codechef.com/problems/MSNSADM1
+// PROBLEM DIFFICULTY RATTING: 1102
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DIFFCONSEC
+// DATE: 02/11/2022, 02:40:03
+// PROBLEM NAME: Different Consecutive Characters 
+// PROBLEM URL: https://www.codechef.com/problems/DIFFCONSEC
+// PROBLEM DIFFICULTY RATTING: 879
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

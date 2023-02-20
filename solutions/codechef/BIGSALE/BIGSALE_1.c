@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BIGSALE
+// DATE: 17/02/2023, 07:59:35
+// PROBLEM NAME: A Big Sale
+// PROBLEM URL: https://www.codechef.com/problems/BIGSALE
+// PROBLEM DIFFICULTY RATTING: 1260
 // STATUS: accepted
 // TIME: 0.25
 // MEMORY: 5.3M

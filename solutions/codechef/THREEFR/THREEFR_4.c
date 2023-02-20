@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/THREEFR
+// DATE: 17/10/2022, 06:15:28
+// PROBLEM NAME: Three Friends
+// PROBLEM URL: https://www.codechef.com/problems/THREEFR
+// PROBLEM DIFFICULTY RATTING: 1074
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

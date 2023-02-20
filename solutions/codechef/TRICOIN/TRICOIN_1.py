@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TRICOIN
+# DATE: 24/08/2022, 05:49:18
+# PROBLEM NAME: Coins And Triangle
+# PROBLEM URL: https://www.codechef.com/problems/TRICOIN
+# PROBLEM DIFFICULTY RATTING: 1075
 # STATUS: accepted
 # TIME: 0.67
 # MEMORY: 9.6M

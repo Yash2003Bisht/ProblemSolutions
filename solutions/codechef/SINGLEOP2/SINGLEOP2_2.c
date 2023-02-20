@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SINGLEOP2
+// DATE: 17/10/2022, 06:59:49
+// PROBLEM NAME: Single Operation Part 2
+// PROBLEM URL: https://www.codechef.com/problems/SINGLEOP2
+// PROBLEM DIFFICULTY RATTING: 1273
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

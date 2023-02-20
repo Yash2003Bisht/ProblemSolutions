@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BREAKSTICK
+// DATE: 08/10/2022, 07:07:07
+// PROBLEM NAME: Break the Stick
+// PROBLEM URL: https://www.codechef.com/problems/BREAKSTICK
+// PROBLEM DIFFICULTY RATTING: 1026
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SLEEP
+// DATE: 24/09/2022, 06:08:46
+// PROBLEM NAME: Sleep deprivation
+// PROBLEM URL: https://www.codechef.com/problems/SLEEP
+// PROBLEM DIFFICULTY RATTING: 348
 // STATUS: accepted
 // TIME: 0.08
 // MEMORY: 53.8M

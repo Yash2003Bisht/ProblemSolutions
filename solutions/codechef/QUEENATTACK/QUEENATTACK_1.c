@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/QUEENATTACK
+// DATE: 25/10/2022, 07:12:43
+// PROBLEM NAME: The Attack of Queen
+// PROBLEM URL: https://www.codechef.com/problems/QUEENATTACK
+// PROBLEM DIFFICULTY RATTING: 1076
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.2M

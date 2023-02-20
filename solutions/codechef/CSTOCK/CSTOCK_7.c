@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CSTOCK
+// DATE: 05/09/2022, 09:35:01
+// PROBLEM NAME: Chef and Stock Prices 
+// PROBLEM URL: https://www.codechef.com/problems/CSTOCK
+// PROBLEM DIFFICULTY RATTING: 1069
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

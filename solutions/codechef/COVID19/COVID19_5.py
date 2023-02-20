@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/COVID19
+# DATE: 07/01/2023, 07:49:03
+# PROBLEM NAME: Coronavirus Spread
+# PROBLEM URL: https://www.codechef.com/problems/COVID19
+# PROBLEM DIFFICULTY RATTING: 1219
 # STATUS: accepted
 # TIME: 0.04
 # MEMORY: 9.5M

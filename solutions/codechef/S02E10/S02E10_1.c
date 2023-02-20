@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/S02E10
+// DATE: 20/01/2023, 06:55:18
+// PROBLEM NAME: The One with Russ
+// PROBLEM URL: https://www.codechef.com/problems/S02E10
+// PROBLEM DIFFICULTY RATTING: 1230
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

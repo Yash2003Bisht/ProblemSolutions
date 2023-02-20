@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ADACRA
+// DATE: 18/11/2022, 07:33:06
+// PROBLEM NAME: Ada and crayons
+// PROBLEM URL: https://www.codechef.com/problems/ADACRA
+// PROBLEM DIFFICULTY RATTING: 1099
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

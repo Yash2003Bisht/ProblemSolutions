@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/GRIDXOR
+// DATE: 18/01/2023, 07:15:57
+// PROBLEM NAME: Sarthak and his Magic Grid
+// PROBLEM URL: https://www.codechef.com/problems/GRIDXOR
+// PROBLEM DIFFICULTY RATTING: 1227
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.4M

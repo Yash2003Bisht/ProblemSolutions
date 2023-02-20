@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MAKEMONEY
+// DATE: 09/12/2022, 08:00:40
+// PROBLEM NAME: Make Money
+// PROBLEM URL: https://www.codechef.com/problems/MAKEMONEY
+// PROBLEM DIFFICULTY RATTING: 1101
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

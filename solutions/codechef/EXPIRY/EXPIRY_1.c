@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EXPIRY
+// DATE: 10/09/2022, 01:10:22
+// PROBLEM NAME: Expiring Bread
+// PROBLEM URL: https://www.codechef.com/problems/EXPIRY
+// PROBLEM DIFFICULTY RATTING: 440
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

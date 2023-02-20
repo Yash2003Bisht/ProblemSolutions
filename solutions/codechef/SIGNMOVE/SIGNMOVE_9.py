@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/SIGNMOVE
+# DATE: 20/12/2022, 06:56:37
+# PROBLEM NAME: Sign Moves
+# PROBLEM URL: https://www.codechef.com/problems/SIGNMOVE
+# PROBLEM DIFFICULTY RATTING: 1126
 # STATUS: accepted
 # TIME: 0.58
 # MEMORY: 9.7M

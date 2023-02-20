@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ELEVSTRS
+// DATE: 19/10/2022, 06:06:36
+// PROBLEM NAME: From heaven to earth
+// PROBLEM URL: https://www.codechef.com/problems/ELEVSTRS
+// PROBLEM DIFFICULTY RATTING: 1066
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

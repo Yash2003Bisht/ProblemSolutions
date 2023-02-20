@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/AMSGAME1
+// DATE: 09/02/2023, 08:02:54
+// PROBLEM NAME: Subtraction Game 1
+// PROBLEM URL: https://www.codechef.com/problems/AMSGAME1
+// PROBLEM DIFFICULTY RATTING: 1250
 // STATUS: time limit exceeded
 // TIME: -
 // MEMORY: 5.4M

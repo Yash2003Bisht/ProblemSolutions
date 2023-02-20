@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/HIRETEST
+// DATE: 17/02/2023, 07:08:14
+// PROBLEM NAME: Hiring Test
+// PROBLEM URL: https://www.codechef.com/problems/HIRETEST
+// PROBLEM DIFFICULTY RATTING: 1260
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

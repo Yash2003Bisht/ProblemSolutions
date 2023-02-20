@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FAIRPASS
+// DATE: 21/07/2022, 06:59:07
+// PROBLEM NAME: Passes for Fair
+// PROBLEM URL: https://www.codechef.com/problems/FAIRPASS
+// PROBLEM DIFFICULTY RATTING: 342
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/PLAYPIAN
+# DATE: 03/08/2022, 07:59:56
+# PROBLEM NAME: Play Piano
+# PROBLEM URL: https://www.codechef.com/problems/PLAYPIAN
+# PROBLEM DIFFICULTY RATTING: 980
 # STATUS: wrong answer
 # TIME: 0.02
 # MEMORY: 9M

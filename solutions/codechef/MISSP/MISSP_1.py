@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MISSP
+# DATE: 22/08/2022, 05:49:22
+# PROBLEM NAME: Chef and Dolls
+# PROBLEM URL: https://www.codechef.com/problems/MISSP
+# PROBLEM DIFFICULTY RATTING: 1012
 # STATUS: accepted
 # TIME: 0.08
 # MEMORY: 10.4M

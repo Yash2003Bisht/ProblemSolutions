@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SMALLXOR
+// DATE: 13/08/2022, 07:17:23
+// PROBLEM NAME: XOR with smallest element
+// PROBLEM URL: https://www.codechef.com/problems/SMALLXOR
+// PROBLEM DIFFICULTY RATTING: 1635
 // STATUS: accepted
 // TIME: 0.82
 // MEMORY: 130M

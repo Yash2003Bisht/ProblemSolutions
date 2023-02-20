@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ADADISH
+// DATE: 03/02/2023, 07:37:43
+// PROBLEM NAME: Ada and Dishes
+// PROBLEM URL: https://www.codechef.com/problems/ADADISH
+// PROBLEM DIFFICULTY RATTING: 1237
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

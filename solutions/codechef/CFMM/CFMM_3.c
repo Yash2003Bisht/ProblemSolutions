@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CFMM
+// DATE: 31/12/2022, 03:53:00
+// PROBLEM NAME: Making a Meal
+// PROBLEM URL: https://www.codechef.com/problems/CFMM
+// PROBLEM DIFFICULTY RATTING: 1214
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

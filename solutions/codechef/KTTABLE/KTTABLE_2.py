@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/KTTABLE
+# DATE: 01/08/2022, 07:37:09
+# PROBLEM NAME: Kitchen Timetable
+# PROBLEM URL: https://www.codechef.com/problems/KTTABLE
+# PROBLEM DIFFICULTY RATTING: 997
 # STATUS: accepted
 # TIME: 0.08
 # MEMORY: 12M

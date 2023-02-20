@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/PCJ18A
+// DATE: 04/02/2023, 05:31:38
+// PROBLEM NAME: Chef and Secret Ingredient
+// PROBLEM URL: https://www.codechef.com/problems/PCJ18A
+// PROBLEM DIFFICULTY RATTING: 1244
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

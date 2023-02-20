@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MAX_DIFF
+// DATE: 14/02/2023, 07:10:39
+// PROBLEM NAME: The Two Dishes
+// PROBLEM URL: https://www.codechef.com/problems/MAX_DIFF
+// PROBLEM DIFFICULTY RATTING: 1254
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

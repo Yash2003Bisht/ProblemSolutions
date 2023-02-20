@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/SPLITN
+# DATE: 10/08/2022, 09:54:31
+# PROBLEM NAME: Split N
+# PROBLEM URL: https://www.codechef.com/problems/SPLITN
+# PROBLEM DIFFICULTY RATTING: 1195
 # STATUS: wrong answer
 # TIME: 0.02
 # MEMORY: 9.8M

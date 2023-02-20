@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/COVID_19
+// DATE: 03/11/2022, 06:24:21
+// PROBLEM NAME: Covid and Theatre Tickets
+// PROBLEM URL: https://www.codechef.com/problems/COVID_19
+// PROBLEM DIFFICULTY RATTING: 1077
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

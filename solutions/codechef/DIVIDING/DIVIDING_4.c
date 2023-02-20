@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DIVIDING
+// DATE: 28/11/2022, 06:02:42
+// PROBLEM NAME: Dividing Stamps
+// PROBLEM URL: https://www.codechef.com/problems/DIVIDING
+// PROBLEM DIFFICULTY RATTING: 1109
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.4M

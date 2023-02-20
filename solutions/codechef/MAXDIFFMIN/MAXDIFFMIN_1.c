@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MAXDIFFMIN
+// DATE: 29/10/2022, 05:12:01
+// PROBLEM NAME: Max minus Min
+// PROBLEM URL: https://www.codechef.com/problems/MAXDIFFMIN
+// PROBLEM DIFFICULTY RATTING: 339
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

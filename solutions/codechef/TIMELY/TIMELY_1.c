@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TIMELY
+// DATE: 24/10/2022, 03:05:01
+// PROBLEM NAME: Reach on Time
+// PROBLEM URL: https://www.codechef.com/problems/TIMELY
+// PROBLEM DIFFICULTY RATTING: 279
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

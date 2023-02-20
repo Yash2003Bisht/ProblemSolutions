@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/VACCINE2
+// DATE: 09/01/2023, 07:43:44
+// PROBLEM NAME: Vaccine Distribution
+// PROBLEM URL: https://www.codechef.com/problems/VACCINE2
+// PROBLEM DIFFICULTY RATTING: 1219
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

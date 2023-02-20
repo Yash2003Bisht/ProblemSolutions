@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/FILLCANDIES
+# DATE: 25/07/2022, 07:14:37
+# PROBLEM NAME: Fill Candies
+# PROBLEM URL: https://www.codechef.com/problems/FILLCANDIES
+# PROBLEM DIFFICULTY RATTING: 681
 # STATUS: wrong answer
 # TIME: 0.02
 # MEMORY: 9.3M

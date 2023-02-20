@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ALTSTR
+// DATE: 02/12/2022, 07:09:31
+// PROBLEM NAME: Alternating String
+// PROBLEM URL: https://www.codechef.com/problems/ALTSTR
+// PROBLEM DIFFICULTY RATTING: 1116
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

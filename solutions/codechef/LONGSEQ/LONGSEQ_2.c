@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/LONGSEQ
+// DATE: 30/12/2022, 06:48:53
+// PROBLEM NAME: Chef and digits of a number
+// PROBLEM URL: https://www.codechef.com/problems/LONGSEQ
+// PROBLEM DIFFICULTY RATTING: 1209
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.4M

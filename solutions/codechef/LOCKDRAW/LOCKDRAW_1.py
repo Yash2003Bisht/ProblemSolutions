@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/LOCKDRAW
+# DATE: 05/08/2022, 07:41:44
+# PROBLEM NAME: Chef and Lockout Draws
+# PROBLEM URL: https://www.codechef.com/problems/LOCKDRAW
+# PROBLEM DIFFICULTY RATTING: 982
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.3M

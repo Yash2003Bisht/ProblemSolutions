@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MINORMAX
+// DATE: 27/01/2023, 08:46:26
+// PROBLEM NAME: Minimum or Maximum
+// PROBLEM URL: https://www.codechef.com/problems/MINORMAX
+// PROBLEM DIFFICULTY RATTING: 1233
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

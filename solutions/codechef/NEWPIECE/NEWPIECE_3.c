@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/NEWPIECE
+// DATE: 02/01/2023, 07:15:10
+// PROBLEM NAME: New Piece
+// PROBLEM URL: https://www.codechef.com/problems/NEWPIECE
+// PROBLEM DIFFICULTY RATTING: 1216
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

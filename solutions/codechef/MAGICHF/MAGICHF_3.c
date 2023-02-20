@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MAGICHF
+// DATE: 28/09/2022, 05:38:35
+// PROBLEM NAME: Magician versus Chef
+// PROBLEM URL: https://www.codechef.com/problems/MAGICHF
+// PROBLEM DIFFICULTY RATTING: 1088
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

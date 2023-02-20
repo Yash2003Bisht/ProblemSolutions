@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CNOTE
+// DATE: 13/02/2023, 07:40:37
+// PROBLEM NAME: Chef and Notebooks
+// PROBLEM URL: https://www.codechef.com/problems/CNOTE
+// PROBLEM DIFFICULTY RATTING: 1255
 // STATUS: accepted
 // TIME: 0.17
 // MEMORY: 5.4M

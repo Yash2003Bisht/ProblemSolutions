@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/COOMILK
+// DATE: 04/02/2023, 05:24:22
+// PROBLEM NAME: Bear and Milky Cookies
+// PROBLEM URL: https://www.codechef.com/problems/COOMILK
+// PROBLEM DIFFICULTY RATTING: 1244
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

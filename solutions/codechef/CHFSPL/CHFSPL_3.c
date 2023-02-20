@@ -1,7 +1,10 @@
-// QUESTION URL: https://www.codechef.com/problems/CHFSPL
+// DATE: 04/09/2022, 05:23:21
+// PROBLEM NAME: Chef and Spells
+// PROBLEM URL: https://www.codechef.com/problems/CHFSPL
+// PROBLEM DIFFICULTY RATTING: 965
 // STATUS: accepted
 // TIME: 0.01
-// MEMORY: 5.3M
+// MEMORY: 5.1M
 
 #include <stdio.h>
 

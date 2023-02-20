@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CWIREFRAME
+# DATE: 26/10/2022, 08:09:18
+# PROBLEM NAME: Chef and Wire Frames
+# PROBLEM URL: https://www.codechef.com/problems/CWIREFRAME
+# PROBLEM DIFFICULTY RATTING: 383
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

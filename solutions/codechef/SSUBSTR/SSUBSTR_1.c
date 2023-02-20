@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SSUBSTR
+// DATE: 29/10/2022, 06:18:29
+// PROBLEM NAME: Sorted Substrings
+// PROBLEM URL: https://www.codechef.com/problems/SSUBSTR
+// PROBLEM DIFFICULTY RATTING: 1310
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

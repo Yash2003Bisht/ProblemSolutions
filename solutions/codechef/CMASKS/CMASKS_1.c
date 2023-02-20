@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CMASKS
+// DATE: 02/11/2022, 03:46:07
+// PROBLEM NAME: Chef and Masks
+// PROBLEM URL: https://www.codechef.com/problems/CMASKS
+// PROBLEM DIFFICULTY RATTING: 432
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

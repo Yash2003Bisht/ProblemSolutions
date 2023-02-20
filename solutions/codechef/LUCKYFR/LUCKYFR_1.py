@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/LUCKYFR
+# DATE: 01/08/2022, 07:53:30
+# PROBLEM NAME: Lucky Four
+# PROBLEM URL: https://www.codechef.com/problems/LUCKYFR
+# PROBLEM DIFFICULTY RATTING: 998
 # STATUS: accepted
 # TIME: 1.08
 # MEMORY: 9.1M

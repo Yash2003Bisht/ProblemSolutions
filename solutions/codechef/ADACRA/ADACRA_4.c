@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ADACRA
+// DATE: 18/11/2022, 07:28:00
+// PROBLEM NAME: Ada and crayons
+// PROBLEM URL: https://www.codechef.com/problems/ADACRA
+// PROBLEM DIFFICULTY RATTING: 1099
 // STATUS: time limit exceeded
 // TIME: -
 // MEMORY: 5.2M

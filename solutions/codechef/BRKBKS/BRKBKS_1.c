@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BRKBKS
+// DATE: 08/02/2023, 08:13:48
+// PROBLEM NAME: Breaking Bricks
+// PROBLEM URL: https://www.codechef.com/problems/BRKBKS
+// PROBLEM DIFFICULTY RATTING: 1247
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

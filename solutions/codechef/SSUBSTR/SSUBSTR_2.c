@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SSUBSTR
+// DATE: 29/10/2022, 06:17:36
+// PROBLEM NAME: Sorted Substrings
+// PROBLEM URL: https://www.codechef.com/problems/SSUBSTR
+// PROBLEM DIFFICULTY RATTING: 1310
 // STATUS: runtime error(SIGABRT)
 // TIME: 0.01
 // MEMORY: 5.2M

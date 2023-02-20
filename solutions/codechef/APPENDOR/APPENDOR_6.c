@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/APPENDOR
+// DATE: 12/01/2023, 07:13:43
+// PROBLEM NAME: Append for OR
+// PROBLEM URL: https://www.codechef.com/problems/APPENDOR
+// PROBLEM DIFFICULTY RATTING: 1201
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CRDGAME
+// DATE: 19/12/2022, 06:13:30
+// PROBLEM NAME: Chef and Card Game
+// PROBLEM URL: https://www.codechef.com/problems/CRDGAME
+// PROBLEM DIFFICULTY RATTING: 1125
 // STATUS: accepted
 // TIME: 0.03
 // MEMORY: 5.2M

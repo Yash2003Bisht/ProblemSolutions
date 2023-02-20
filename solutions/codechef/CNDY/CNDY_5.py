@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CNDY
+# DATE: 17/11/2022, 07:04:36
+# PROBLEM NAME: Candies
+# PROBLEM URL: https://www.codechef.com/problems/CNDY
+# PROBLEM DIFFICULTY RATTING: 1018
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 10M

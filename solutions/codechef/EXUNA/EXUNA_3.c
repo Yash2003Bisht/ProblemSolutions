@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EXUNA
+// DATE: 22/11/2022, 06:44:13
+// PROBLEM NAME: Weird Modulo Problem 
+// PROBLEM URL: https://www.codechef.com/problems/EXUNA
+// PROBLEM DIFFICULTY RATTING: 1104
 // STATUS: wrong answer
 // TIME: 0.12
 // MEMORY: 5.4M

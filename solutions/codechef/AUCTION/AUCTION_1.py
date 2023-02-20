@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/AUCTION
+# DATE: 29/07/2022, 06:46:33
+# PROBLEM NAME: Bidding
+# PROBLEM URL: https://www.codechef.com/problems/AUCTION
+# PROBLEM DIFFICULTY RATTING: 330
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 8.9M

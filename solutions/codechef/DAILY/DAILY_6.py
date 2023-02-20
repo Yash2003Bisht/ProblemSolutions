@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/DAILY
+# DATE: 13/01/2023, 08:29:50
+# PROBLEM NAME: Daily Train
+# PROBLEM URL: https://www.codechef.com/problems/DAILY
+# PROBLEM DIFFICULTY RATTING: 1222
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.8M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/INTEST
+// DATE: 02/11/2022, 07:14:27
+// PROBLEM NAME: Enormous Input Test
+// PROBLEM URL: https://www.codechef.com/problems/INTEST
+// PROBLEM DIFFICULTY RATTING: 464
 // STATUS: accepted
 // TIME: 0.26
 // MEMORY: 5.1M

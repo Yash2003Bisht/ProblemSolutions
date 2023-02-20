@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/WATSCORE
+// DATE: 19/09/2022, 06:10:00
+// PROBLEM NAME: That Is My Score!
+// PROBLEM URL: https://www.codechef.com/problems/WATSCORE
+// PROBLEM DIFFICULTY RATTING: 1094
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

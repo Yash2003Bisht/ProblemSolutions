@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TRAVELPS
+// DATE: 16/09/2022, 05:33:32
+// PROBLEM NAME: Travel Pass
+// PROBLEM URL: https://www.codechef.com/problems/TRAVELPS
+// PROBLEM DIFFICULTY RATTING: 1118
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

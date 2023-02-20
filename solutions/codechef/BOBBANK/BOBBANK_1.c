@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BOBBANK
+// DATE: 26/10/2022, 08:34:18
+// PROBLEM NAME: Bob at the Bank
+// PROBLEM URL: https://www.codechef.com/problems/BOBBANK
+// PROBLEM DIFFICULTY RATTING: 481
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

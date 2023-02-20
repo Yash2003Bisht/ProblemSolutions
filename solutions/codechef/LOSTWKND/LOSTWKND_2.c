@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/LOSTWKND
+// DATE: 16/09/2022, 06:02:17
+// PROBLEM NAME: Lost Weekends
+// PROBLEM URL: https://www.codechef.com/problems/LOSTWKND
+// PROBLEM DIFFICULTY RATTING: 1063
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

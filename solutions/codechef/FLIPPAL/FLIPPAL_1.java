@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FLIPPAL
+// DATE: 14/10/2022, 06:55:03
+// PROBLEM NAME: Palindrome Flipping
+// PROBLEM URL: https://www.codechef.com/problems/FLIPPAL
+// PROBLEM DIFFICULTY RATTING: 1173
 // STATUS: accepted
 // TIME: 0.51
 // MEMORY: 91.3M

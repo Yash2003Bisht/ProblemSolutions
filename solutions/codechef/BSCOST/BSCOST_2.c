@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/BSCOST
+// DATE: 01/11/2022, 06:50:08
+// PROBLEM NAME: Binary String Cost
+// PROBLEM URL: https://www.codechef.com/problems/BSCOST
+// PROBLEM DIFFICULTY RATTING: 1069
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 5.3M

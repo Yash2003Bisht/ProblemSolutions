@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MINLCS
+# DATE: 22/10/2022, 07:02:10
+# PROBLEM NAME: Minimise LCS
+# PROBLEM URL: https://www.codechef.com/problems/MINLCS
+# PROBLEM DIFFICULTY RATTING: 1367
 # STATUS: accepted
 # TIME: 0.04
 # MEMORY: 9.9M

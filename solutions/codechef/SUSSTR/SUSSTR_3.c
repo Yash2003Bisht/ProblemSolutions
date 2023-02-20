@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SUSSTR
+// DATE: 01/02/2023, 08:15:07
+// PROBLEM NAME: Suspense String
+// PROBLEM URL: https://www.codechef.com/problems/SUSSTR
+// PROBLEM DIFFICULTY RATTING: 1239
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

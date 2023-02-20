@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/DIET
+# DATE: 26/08/2022, 05:45:21
+# PROBLEM NAME: Chef Diet
+# PROBLEM URL: https://www.codechef.com/problems/DIET
+# PROBLEM DIFFICULTY RATTING: 1025
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.5M

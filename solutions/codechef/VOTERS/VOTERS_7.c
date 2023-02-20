@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/VOTERS
+// DATE: 11/10/2022, 12:15:09
+// PROBLEM NAME: Discrepancies in the Voters List
+// PROBLEM URL: https://www.codechef.com/problems/VOTERS
+// PROBLEM DIFFICULTY RATTING: 1114
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.3M

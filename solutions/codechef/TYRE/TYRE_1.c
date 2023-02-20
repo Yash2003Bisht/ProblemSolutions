@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TYRE
+// DATE: 10/09/2022, 01:12:47
+// PROBLEM NAME: Tyre problem
+// PROBLEM URL: https://www.codechef.com/problems/TYRE
+// PROBLEM DIFFICULTY RATTING: 452
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

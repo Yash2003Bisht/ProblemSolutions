@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFSOCK
+// DATE: 07/12/2022, 07:43:51
+// PROBLEM NAME: Chef and Socks
+// PROBLEM URL: https://www.codechef.com/problems/CHEFSOCK
+// PROBLEM DIFFICULTY RATTING: 1122
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

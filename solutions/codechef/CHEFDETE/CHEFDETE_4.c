@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFDETE
+// DATE: 11/02/2023, 08:14:29
+// PROBLEM NAME: Chef-Detective
+// PROBLEM URL: https://www.codechef.com/problems/CHEFDETE
+// PROBLEM DIFFICULTY RATTING: 1253
 // STATUS: partially accepted
 // TIME: 0.09
 // MEMORY: 5.3M

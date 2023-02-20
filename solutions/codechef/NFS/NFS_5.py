@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/NFS
+# DATE: 27/09/2022, 06:24:36
+# PROBLEM NAME: Turn It
+# PROBLEM URL: https://www.codechef.com/problems/NFS
+# PROBLEM DIFFICULTY RATTING: 1350
 # STATUS: runtime error(NZEC)
 # TIME: 0.00
 # MEMORY: 0M

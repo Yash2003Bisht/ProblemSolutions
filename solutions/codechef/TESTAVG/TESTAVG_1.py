@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TESTAVG
+# DATE: 23/08/2022, 05:52:22
+# PROBLEM NAME: Test Averages
+# PROBLEM URL: https://www.codechef.com/problems/TESTAVG
+# PROBLEM DIFFICULTY RATTING: 558
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

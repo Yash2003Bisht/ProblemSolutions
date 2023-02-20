@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SIMPSTAT
+// DATE: 10/01/2023, 08:43:31
+// PROBLEM NAME: Simple Statistics
+// PROBLEM URL: https://www.codechef.com/problems/SIMPSTAT
+// PROBLEM DIFFICULTY RATTING: 1222
 // STATUS: accepted
 // TIME: 0.16
 // MEMORY: 5.2M

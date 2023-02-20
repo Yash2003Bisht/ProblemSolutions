@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/BRACKETS
+# DATE: 23/01/2023, 07:03:21
+# PROBLEM NAME: Brackets
+# PROBLEM URL: https://www.codechef.com/problems/BRACKETS
+# PROBLEM DIFFICULTY RATTING: 1207
 # STATUS: accepted
 # TIME: 0.07
 # MEMORY: 9.8M

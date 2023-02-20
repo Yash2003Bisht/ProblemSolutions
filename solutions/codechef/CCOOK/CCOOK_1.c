@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CCOOK
+// DATE: 05/09/2022, 06:52:53
+// PROBLEM NAME: Chef and Cook-Off
+// PROBLEM URL: https://www.codechef.com/problems/CCOOK
+// PROBLEM DIFFICULTY RATTING: 961
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

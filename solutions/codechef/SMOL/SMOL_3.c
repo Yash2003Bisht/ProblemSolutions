@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SMOL
+// DATE: 27/09/2022, 06:00:17
+// PROBLEM NAME: Smallest Possible Whole Number
+// PROBLEM URL: https://www.codechef.com/problems/SMOL
+// PROBLEM DIFFICULTY RATTING: 1306
 // STATUS: time limit exceeded
 // TIME: -
 // MEMORY: 0M

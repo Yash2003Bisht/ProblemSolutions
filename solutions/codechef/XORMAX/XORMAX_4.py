@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/XORMAX
+# DATE: 21/12/2022, 07:16:12
+# PROBLEM NAME: Maximise XOR
+# PROBLEM URL: https://www.codechef.com/problems/XORMAX
+# PROBLEM DIFFICULTY RATTING: 1229
 # STATUS: accepted
 # TIME: 0.09
 # MEMORY: 11.8M

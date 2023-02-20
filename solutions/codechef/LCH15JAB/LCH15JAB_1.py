@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/LCH15JAB
+# DATE: 17/09/2022, 07:49:05
+# PROBLEM NAME: Piece of cake
+# PROBLEM URL: https://www.codechef.com/problems/LCH15JAB
+# PROBLEM DIFFICULTY RATTING: 1144
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/QTOO_2523
+# DATE: 18/02/2023, 08:35:08
+# PROBLEM NAME: Bi_lindrome!
+# PROBLEM URL: https://www.codechef.com/problems/QTOO_2523
+# PROBLEM DIFFICULTY RATTING: 1095
 # STATUS: wrong answer
 # TIME: 0.05
 # MEMORY: 9.5M

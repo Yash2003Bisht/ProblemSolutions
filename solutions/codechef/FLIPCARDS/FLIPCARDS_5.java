@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FLIPCARDS
+// DATE: 24/09/2022, 06:40:11
+// PROBLEM NAME: Flip the cards
+// PROBLEM URL: https://www.codechef.com/problems/FLIPCARDS
+// PROBLEM DIFFICULTY RATTING: 641
 // STATUS: wrong answer
 // TIME: 0.09
 // MEMORY: 54M

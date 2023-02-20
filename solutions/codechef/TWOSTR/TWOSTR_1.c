@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TWOSTR
+// DATE: 14/02/2023, 07:33:23
+// PROBLEM NAME: Chef and the Wildcard Matching
+// PROBLEM URL: https://www.codechef.com/problems/TWOSTR
+// PROBLEM DIFFICULTY RATTING: 1254
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

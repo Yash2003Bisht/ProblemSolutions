@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CRDGAME3
+// DATE: 19/01/2023, 08:04:23
+// PROBLEM NAME: Another Card Game Problem
+// PROBLEM URL: https://www.codechef.com/problems/CRDGAME3
+// PROBLEM DIFFICULTY RATTING: 1230
 // STATUS: accepted
 // TIME: 0.03
 // MEMORY: 5.3M

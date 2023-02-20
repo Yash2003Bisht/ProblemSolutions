@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FLOW006
+// DATE: 01/11/2022, 07:43:04
+// PROBLEM NAME: Sum of Digits
+// PROBLEM URL: https://www.codechef.com/problems/FLOW006
+// PROBLEM DIFFICULTY RATTING: 455
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

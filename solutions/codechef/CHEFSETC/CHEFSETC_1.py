@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CHEFSETC
+# DATE: 15/02/2023, 08:54:07
+# PROBLEM NAME: Chef and Subset
+# PROBLEM URL: https://www.codechef.com/problems/CHEFSETC
+# PROBLEM DIFFICULTY RATTING: 1243
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

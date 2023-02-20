@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/WATESTCASES
+// DATE: 05/09/2022, 06:29:05
+// PROBLEM NAME: WA Test Cases
+// PROBLEM URL: https://www.codechef.com/problems/WATESTCASES
+// PROBLEM DIFFICULTY RATTING: 976
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

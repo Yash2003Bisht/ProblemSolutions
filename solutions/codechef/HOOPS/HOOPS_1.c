@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/HOOPS
+// DATE: 26/09/2022, 08:02:00
+// PROBLEM NAME: Hoop Jump
+// PROBLEM URL: https://www.codechef.com/problems/HOOPS
+// PROBLEM DIFFICULTY RATTING: 930
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.1M

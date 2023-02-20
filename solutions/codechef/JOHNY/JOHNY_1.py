@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/JOHNY
+# DATE: 11/09/2022, 01:23:57
+# PROBLEM NAME: Uncle Johny
+# PROBLEM URL: https://www.codechef.com/problems/JOHNY
+# PROBLEM DIFFICULTY RATTING: 1093
 # STATUS: accepted
 # TIME: 0.05
 # MEMORY: 9.7M

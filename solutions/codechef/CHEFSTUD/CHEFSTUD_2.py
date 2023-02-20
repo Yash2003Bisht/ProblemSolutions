@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CHEFSTUD
+# DATE: 06/09/2022, 06:08:12
+# PROBLEM NAME: Chef and his Students
+# PROBLEM URL: https://www.codechef.com/problems/CHEFSTUD
+# PROBLEM DIFFICULTY RATTING: 1047
 # STATUS: accepted
 # TIME: 0.12
 # MEMORY: 9.9M

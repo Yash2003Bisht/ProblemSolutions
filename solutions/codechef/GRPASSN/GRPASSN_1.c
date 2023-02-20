@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/GRPASSN
+// DATE: 11/11/2022, 06:56:16
+// PROBLEM NAME: Group Assignment
+// PROBLEM URL: https://www.codechef.com/problems/GRPASSN
+// PROBLEM DIFFICULTY RATTING: 1092
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

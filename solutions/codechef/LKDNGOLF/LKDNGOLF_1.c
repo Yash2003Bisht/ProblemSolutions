@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/LKDNGOLF
+// DATE: 18/02/2023, 07:40:16
+// PROBLEM NAME: Golf
+// PROBLEM URL: https://www.codechef.com/problems/LKDNGOLF
+// PROBLEM DIFFICULTY RATTING: 1256
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

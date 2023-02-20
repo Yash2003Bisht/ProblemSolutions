@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FEVER
+// DATE: 10/09/2022, 06:20:37
+// PROBLEM NAME: Fever
+// PROBLEM URL: https://www.codechef.com/problems/FEVER
+// PROBLEM DIFFICULTY RATTING: 348
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

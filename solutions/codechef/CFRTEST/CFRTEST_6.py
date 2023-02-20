@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/CFRTEST
+# DATE: 18/10/2022, 05:44:09
+# PROBLEM NAME: Devu and friendship testing
+# PROBLEM URL: https://www.codechef.com/problems/CFRTEST
+# PROBLEM DIFFICULTY RATTING: 1061
 # STATUS: accepted
 # TIME: 0.13
 # MEMORY: 9.7M

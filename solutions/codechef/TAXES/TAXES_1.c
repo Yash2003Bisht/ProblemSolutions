@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TAXES
+// DATE: 16/10/2022, 02:19:37
+// PROBLEM NAME: Tax in Chefland
+// PROBLEM URL: https://www.codechef.com/problems/TAXES
+// PROBLEM DIFFICULTY RATTING: 276
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

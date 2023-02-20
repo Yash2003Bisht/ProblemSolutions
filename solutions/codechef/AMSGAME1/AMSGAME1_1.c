@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/AMSGAME1
+// DATE: 09/02/2023, 08:25:18
+// PROBLEM NAME: Subtraction Game 1
+// PROBLEM URL: https://www.codechef.com/problems/AMSGAME1
+// PROBLEM DIFFICULTY RATTING: 1250
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/DWNLD
+// DATE: 20/09/2022, 06:27:47
+// PROBLEM NAME: Download file
+// PROBLEM URL: https://www.codechef.com/problems/DWNLD
+// PROBLEM DIFFICULTY RATTING: 1147
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.1M

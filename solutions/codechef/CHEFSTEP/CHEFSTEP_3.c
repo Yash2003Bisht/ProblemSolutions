@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFSTEP
+// DATE: 29/11/2022, 06:36:58
+// PROBLEM NAME: Chef and Steps
+// PROBLEM URL: https://www.codechef.com/problems/CHEFSTEP
+// PROBLEM DIFFICULTY RATTING: 1110
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

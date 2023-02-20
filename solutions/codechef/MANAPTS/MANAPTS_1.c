@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/MANAPTS
+// DATE: 21/01/2023, 08:35:14
+// PROBLEM NAME: Mana Points
+// PROBLEM URL: https://www.codechef.com/problems/MANAPTS
+// PROBLEM DIFFICULTY RATTING: 327
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.2M

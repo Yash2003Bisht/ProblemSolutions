@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SLOWSOLN
+// DATE: 06/10/2022, 07:19:18
+// PROBLEM NAME: Slow Solution
+// PROBLEM URL: https://www.codechef.com/problems/SLOWSOLN
+// PROBLEM DIFFICULTY RATTING: 1003
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.4M

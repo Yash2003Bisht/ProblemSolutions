@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFGAMES
+// DATE: 18/09/2022, 02:56:01
+// PROBLEM NAME: Chefland Games
+// PROBLEM URL: https://www.codechef.com/problems/CHEFGAMES
+// PROBLEM DIFFICULTY RATTING: 550
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

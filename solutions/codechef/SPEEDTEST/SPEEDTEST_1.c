@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/SPEEDTEST
+// DATE: 21/09/2022, 05:30:45
+// PROBLEM NAME: Speed Limit Test
+// PROBLEM URL: https://www.codechef.com/problems/SPEEDTEST
+// PROBLEM DIFFICULTY RATTING: 718
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/PRIME1
+# DATE: 04/11/2022, 06:57:04
+# PROBLEM NAME: Prime Generator
+# PROBLEM URL: https://www.codechef.com/problems/PRIME1
+# PROBLEM DIFFICULTY RATTING: 1069
 # STATUS: accepted
 # TIME: 9.70
 # MEMORY: 9.8M

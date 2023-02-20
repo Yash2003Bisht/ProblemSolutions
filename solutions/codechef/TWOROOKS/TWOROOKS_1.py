@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/TWOROOKS
+# DATE: 09/08/2022, 06:32:02
+# PROBLEM NAME: Two Rooks
+# PROBLEM URL: https://www.codechef.com/problems/TWOROOKS
+# PROBLEM DIFFICULTY RATTING: 957
 # STATUS: accepted
 # TIME: 0.05
 # MEMORY: 9.2M

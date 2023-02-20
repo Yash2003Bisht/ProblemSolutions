@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/EQUALSTRING
+// DATE: 09/11/2022, 07:13:22
+// PROBLEM NAME: Equal Strings
+// PROBLEM URL: https://www.codechef.com/problems/EQUALSTRING
+// PROBLEM DIFFICULTY RATTING: 1092
 // STATUS: wrong answer
 // TIME: 0.01
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/RANKLISTPAGE
+// DATE: 05/10/2022, 12:13:03
+// PROBLEM NAME: Ranklist Pages
+// PROBLEM URL: https://www.codechef.com/problems/RANKLISTPAGE
+// PROBLEM DIFFICULTY RATTING: 590
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

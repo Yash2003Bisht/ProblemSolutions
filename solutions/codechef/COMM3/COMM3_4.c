@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/COMM3
+// DATE: 05/11/2022, 06:20:51
+// PROBLEM NAME: Three Way Communications
+// PROBLEM URL: https://www.codechef.com/problems/COMM3
+// PROBLEM DIFFICULTY RATTING: 1083
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

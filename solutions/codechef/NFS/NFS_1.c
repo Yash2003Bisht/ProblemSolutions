@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/NFS
+// DATE: 27/09/2022, 06:34:49
+// PROBLEM NAME: Turn It
+// PROBLEM URL: https://www.codechef.com/problems/NFS
+// PROBLEM DIFFICULTY RATTING: 1350
 // STATUS: accepted
 // TIME: 0.03
 // MEMORY: 5.1M

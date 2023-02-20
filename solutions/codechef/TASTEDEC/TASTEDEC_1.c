@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/TASTEDEC
+// DATE: 06/11/2022, 02:10:56
+// PROBLEM NAME: Tasty Decisions
+// PROBLEM URL: https://www.codechef.com/problems/TASTEDEC
+// PROBLEM DIFFICULTY RATTING: 324
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.2M

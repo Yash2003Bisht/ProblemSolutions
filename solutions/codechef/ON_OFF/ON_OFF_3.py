@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ON_OFF
+# DATE: 01/08/2022, 06:58:45
+# PROBLEM NAME: N Buttons 1 Bulb
+# PROBLEM URL: https://www.codechef.com/problems/ON_OFF
+# PROBLEM DIFFICULTY RATTING: 977
 # STATUS: wrong answer
 # TIME: 0.02
 # MEMORY: 9.1M

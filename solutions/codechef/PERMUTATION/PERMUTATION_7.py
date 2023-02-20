@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/PERMUTATION
+# DATE: 15/12/2022, 06:54:02
+# PROBLEM NAME: Convert to permutation
+# PROBLEM URL: https://www.codechef.com/problems/PERMUTATION
+# PROBLEM DIFFICULTY RATTING: 1197
 # STATUS: accepted
 # TIME: 0.15
 # MEMORY: 9.9M

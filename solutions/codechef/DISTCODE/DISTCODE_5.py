@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/DISTCODE
+# DATE: 25/01/2023, 07:19:29
+# PROBLEM NAME: Distinct Codes
+# PROBLEM URL: https://www.codechef.com/problems/DISTCODE
+# PROBLEM DIFFICULTY RATTING: 1234
 # STATUS: accepted
 # TIME: 1.68
 # MEMORY: 9.6M

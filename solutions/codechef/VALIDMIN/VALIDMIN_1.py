@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/VALIDMIN
+# DATE: 05/08/2022, 06:25:38
+# PROBLEM NAME: Valid Minimum
+# PROBLEM URL: https://www.codechef.com/problems/VALIDMIN
+# PROBLEM DIFFICULTY RATTING: 1132
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.3M

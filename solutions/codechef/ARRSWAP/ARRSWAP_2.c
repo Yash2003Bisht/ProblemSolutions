@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ARRSWAP
+// DATE: 17/01/2023, 08:50:26
+// PROBLEM NAME: Asymmetric Swaps
+// PROBLEM URL: https://www.codechef.com/problems/ARRSWAP
+// PROBLEM DIFFICULTY RATTING: 1230
 // STATUS: accepted
 // TIME: 0.10
 // MEMORY: 5.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHSERVE
+// DATE: 21/11/2022, 06:44:32
+// PROBLEM NAME: Chef and Serves
+// PROBLEM URL: https://www.codechef.com/problems/CHSERVE
+// PROBLEM DIFFICULTY RATTING: 1101
 // STATUS: accepted
 // TIME: 0.01
 // MEMORY: 5.3M

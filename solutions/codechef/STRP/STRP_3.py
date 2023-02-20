@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/STRP
+# DATE: 07/09/2022, 06:19:24
+# PROBLEM NAME: String protocol
+# PROBLEM URL: https://www.codechef.com/problems/STRP
+# PROBLEM DIFFICULTY RATTING: 1065
 # STATUS: accepted
 # TIME: 0.05
 # MEMORY: 9.6M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/AGELIMIT
+// DATE: 25/07/2022, 04:32:13
+// PROBLEM NAME: Age Limit
+// PROBLEM URL: https://www.codechef.com/problems/AGELIMIT
+// PROBLEM DIFFICULTY RATTING: 245
 // STATUS: accepted
 // TIME: 0.23
 // MEMORY: 47.1M

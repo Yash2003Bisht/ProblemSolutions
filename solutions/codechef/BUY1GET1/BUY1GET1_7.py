@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/BUY1GET1
+# DATE: 19/08/2022, 06:32:49
+# PROBLEM NAME: Buy1-Get1
+# PROBLEM URL: https://www.codechef.com/problems/BUY1GET1
+# PROBLEM DIFFICULTY RATTING: 1191
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

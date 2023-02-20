@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/LIFTME
+// DATE: 07/02/2023, 08:05:28
+// PROBLEM NAME: Lift Requests
+// PROBLEM URL: https://www.codechef.com/problems/LIFTME
+// PROBLEM DIFFICULTY RATTING: 1247
 // STATUS: accepted
 // TIME: 0.02
 // MEMORY: 5.3M

@@ -1,7 +1,10 @@
-// QUESTION URL: https://www.codechef.com/problems/PROINC
+// DATE: 05/02/2023, 06:01:10
+// PROBLEM NAME: Profit Increment
+// PROBLEM URL: https://www.codechef.com/problems/PROINC
+// PROBLEM DIFFICULTY RATTING: 414
 // STATUS: accepted
 // TIME: 0.00
-// MEMORY: 5.3M
+// MEMORY: 5.2M
 
 #include <stdio.h>
 

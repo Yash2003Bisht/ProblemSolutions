@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/DETSCORE
+# DATE: 27/07/2022, 06:16:50
+# PROBLEM NAME: Determine the Score
+# PROBLEM URL: https://www.codechef.com/problems/DETSCORE
+# PROBLEM DIFFICULTY RATTING: 267
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.3M

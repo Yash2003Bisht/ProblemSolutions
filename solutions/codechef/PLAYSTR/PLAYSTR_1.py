@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/PLAYSTR
+# DATE: 23/11/2022, 06:01:15
+# PROBLEM NAME: Playing with Strings
+# PROBLEM URL: https://www.codechef.com/problems/PLAYSTR
+# PROBLEM DIFFICULTY RATTING: 1108
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.5M

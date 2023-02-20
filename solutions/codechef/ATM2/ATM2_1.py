@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ATM2
+# DATE: 16/08/2022, 06:12:05
+# PROBLEM NAME: ATM Machine
+# PROBLEM URL: https://www.codechef.com/problems/ATM2
+# PROBLEM DIFFICULTY RATTING: 1001
 # STATUS: accepted
 # TIME: 0.03
 # MEMORY: 9.7M

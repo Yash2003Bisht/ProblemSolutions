@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/KEPLERSLAW
+# DATE: 01/08/2022, 08:09:12
+# PROBLEM NAME: Keplers Law
+# PROBLEM URL: https://www.codechef.com/problems/KEPLERSLAW
+# PROBLEM DIFFICULTY RATTING: 992
 # STATUS: accepted
 # TIME: 0.09
 # MEMORY: 9.2M

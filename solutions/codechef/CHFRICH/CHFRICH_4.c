@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHFRICH
+// DATE: 26/09/2022, 05:51:54
+// PROBLEM NAME: Richie Rich
+// PROBLEM URL: https://www.codechef.com/problems/CHFRICH
+// PROBLEM DIFFICULTY RATTING: 878
 // STATUS: wrong answer
 // TIME: 0.00
 // MEMORY: 0M

@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/ARRAYBREAK
+# DATE: 30/09/2022, 06:25:24
+# PROBLEM NAME: Break the elements
+# PROBLEM URL: https://www.codechef.com/problems/ARRAYBREAK
+# PROBLEM DIFFICULTY RATTING: 1191
 # STATUS: accepted
 # TIME: 0.07
 # MEMORY: 20.4M

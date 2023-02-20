@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/DIVIDEMAKEEQ
+# DATE: 10/11/2022, 06:34:03
+# PROBLEM NAME: Luigi and Uniformity
+# PROBLEM URL: https://www.codechef.com/problems/DIVIDEMAKEEQ
+# PROBLEM DIFFICULTY RATTING: 1185
 # STATUS: accepted
 # TIME: 0.55
 # MEMORY: 10.3M

@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/ICM0013
+// DATE: 29/09/2022, 06:37:46
+// PROBLEM NAME: Lucky Boundaries
+// PROBLEM URL: https://www.codechef.com/problems/ICM0013
+// PROBLEM DIFFICULTY RATTING: 1112
 // STATUS: time limit exceeded
 // TIME: -
 // MEMORY: 5.3M

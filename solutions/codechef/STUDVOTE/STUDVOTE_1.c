@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/STUDVOTE
+// DATE: 20/09/2022, 08:08:41
+// PROBLEM NAME: Drumpf for President!
+// PROBLEM URL: https://www.codechef.com/problems/STUDVOTE
+// PROBLEM DIFFICULTY RATTING: 1205
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M

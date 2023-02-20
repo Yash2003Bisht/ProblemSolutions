@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MARARUN
+# DATE: 03/08/2022, 05:30:07
+# PROBLEM NAME: Marathon
+# PROBLEM URL: https://www.codechef.com/problems/MARARUN
+# PROBLEM DIFFICULTY RATTING: 955
 # STATUS: accepted
 # TIME: 0.02
 # MEMORY: 9.1M

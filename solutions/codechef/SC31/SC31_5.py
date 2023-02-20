@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/SC31
+# DATE: 24/12/2022, 06:43:24
+# PROBLEM NAME: Weapon Value
+# PROBLEM URL: https://www.codechef.com/problems/SC31
+# PROBLEM DIFFICULTY RATTING: 1204
 # STATUS: accepted
 # TIME: 1.95
 # MEMORY: 9.7M

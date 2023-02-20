@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/FLIPPAL
+// DATE: 14/10/2022, 06:32:23
+// PROBLEM NAME: Palindrome Flipping
+// PROBLEM URL: https://www.codechef.com/problems/FLIPPAL
+// PROBLEM DIFFICULTY RATTING: 1173
 // STATUS: runtime error(SIGABRT)
 // TIME: 0.00
 // MEMORY: 5.3M

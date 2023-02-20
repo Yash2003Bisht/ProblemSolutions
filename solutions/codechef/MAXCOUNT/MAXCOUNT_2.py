@@ -1,4 +1,7 @@
-# QUESTION URL: https://www.codechef.com/problems/MAXCOUNT
+# DATE: 04/10/2022, 06:30:18
+# PROBLEM NAME: Count of Maximum
+# PROBLEM URL: https://www.codechef.com/problems/MAXCOUNT
+# PROBLEM DIFFICULTY RATTING: 1180
 # STATUS: wrong answer
 # TIME: 0.02
 # MEMORY: 9.7M

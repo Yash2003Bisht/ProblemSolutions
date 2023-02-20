@@ -1,4 +1,7 @@
-// QUESTION URL: https://www.codechef.com/problems/CHEFCBA
+// DATE: 08/12/2022, 07:57:03
+// PROBLEM NAME: Chef and Proportion
+// PROBLEM URL: https://www.codechef.com/problems/CHEFCBA
+// PROBLEM DIFFICULTY RATTING: 1122
 // STATUS: accepted
 // TIME: 0.00
 // MEMORY: 5.3M
