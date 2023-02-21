@@ -1,10 +1,10 @@
-// DATE: 26/09/2022, 08:34:41
+// DATE: 26/09/2022, 08:32:18
 // PROBLEM NAME: Weight Balance
 // PROBLEM URL: https://www.codechef.com/problems/WEIGHTBL
 // PROBLEM DIFFICULTY RATTING: 1045
 // STATUS: accepted
 // TIME: 0.03
-// MEMORY: 5.3M
+// MEMORY: 5.2M
 
 #include <stdio.h>
 

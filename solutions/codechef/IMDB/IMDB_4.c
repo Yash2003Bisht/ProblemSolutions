@@ -1,10 +1,10 @@
-// DATE: 14/09/2022, 05:56:48
+// DATE: 26/09/2022, 06:11:07
 // PROBLEM NAME: Motivation
 // PROBLEM URL: https://www.codechef.com/problems/IMDB
 // PROBLEM DIFFICULTY RATTING: 1098
 // STATUS: accepted
 // TIME: 0.08
-// MEMORY: 5.3M
+// MEMORY: 5.2M
 
 #include <stdio.h>
 

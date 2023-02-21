@@ -1,10 +1,10 @@
-# DATE: 26/09/2022, 08:03:49
+# DATE: 26/09/2022, 08:04:55
 # PROBLEM NAME: Programming Languages
 # PROBLEM URL: https://www.codechef.com/problems/PROGLANG
 # PROBLEM DIFFICULTY RATTING: 1001
 # STATUS: accepted
 # TIME: 0.02
-# MEMORY: 9.6M
+# MEMORY: 9.5M
 
 for _ in range(int(input())):
     a,b,a1,b1,a2,b2 = map(int, input().split(" "))
