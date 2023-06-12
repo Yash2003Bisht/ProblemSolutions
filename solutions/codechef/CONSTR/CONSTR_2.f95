@@ -1,10 +1,10 @@
-// DATE: 09/06/2023, 07:59:11
-// PROBLEM NAME: Construct String
-// PROBLEM URL: https://www.codechef.com/problems/CONSTR
-// PROBLEM DIFFICULTY RATTING: 1307
-// STATUS: runtime error(SIGSEGV)
-// TIME: 0.37
-// MEMORY: 5.3M
+! DATE: 09/06/2023, 07:59:11
+! PROBLEM NAME: Construct String
+! PROBLEM URL: https://www.codechef.com/problems/CONSTR
+! PROBLEM DIFFICULTY RATTING: 1307
+! STATUS: runtime error(SIGSEGV)
+! TIME: 0.37
+! MEMORY: 5.3M
 
 program Main
     implicit none
