@@ -1,5 +1,5 @@
-// QUESTION URL: https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
-// STATUS: Accepted
+# QUESTION URL: https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
+# STATUS: Accepted
 
 for i in {1..99}
 do
